@@ -1,6 +1,6 @@
 # Safe-Reinforcement-Learning
 
-Safe Reinforcement-Learning: Process of learning policies that maximize the expectation of the return in problems in which it is important to ensure reasonable system performance and/or respect safety constraints during the learning and/or deployment processes.
+Safe Reinforcement Learning: Process of learning policies that maximize the expectation of the return in problems in which it is important to ensure reasonable system performance and/or respect safety constraints during the learning and/or deployment processes.
 
 Contributed by Chunyang Zhang.
 
@@ -29,7 +29,6 @@ Contributed by Chunyang Zhang.
 
 
 ## [Survey papers](#content)
-
 1. **A comprehensive survey on safe reinforcement learning.** Journal of Machine Learning Research, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
    *Javier Garcí and Fern o Fernández.*
@@ -51,20 +50,20 @@ Contributed by Chunyang Zhang.
    *Kiran, B Ravi and Sobh, Ibrahim and Talpaert, Victor and Mannion, Patrick and Sallab, Ahmad A. Al and Yogamani, Senthil, and Pérez, Patrick.* 
 
 
-
 ## [Methods](#content) 
-
 ### [Lyapunov Function](#content) 
 1. **Lyapunov design for safe reinforcement learning.** Journal of Machine Learning Research, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
 
    *Theodore J. Perkins and Andrew G. Barto.* 
    
 
-
-
 ## [Mechanism](#content) 
-
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
-   *Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, and Tie-Yan Liu.* 
+   *Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, and Tie-Yan Liu.*
+
+### [Intrinsic Rewards](#content) 
+1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
+
+   *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
