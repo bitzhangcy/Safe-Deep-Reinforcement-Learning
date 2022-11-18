@@ -55,13 +55,22 @@ Contributed by Chunyang Zhang.
 1. **Lyapunov design for safe reinforcement learning.** Journal of Machine Learning Research, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
 
    *Theodore J. Perkins and Andrew G. Barto.* 
-   
+
+### [Latent Representation](#content) 
+1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
+
+   *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
 ## [Mechanism](#content) 
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
    *Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, and Tie-Yan Liu.*
+
+### [Constrained Model-Shift Optimization](#content) 
+1. **When to update your model: Constrained model-based reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
+
+   *Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, Wenbing Huang.*
 
 ### [Intrinsic Rewards](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
