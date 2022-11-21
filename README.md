@@ -29,7 +29,7 @@ Contributed by Chunyang Zhang.
 
 
 ## [Survey papers](#content)
-1. **A comprehensive survey on safe reinforcement learning.** Journal of Machine Learning Research, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
+1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
    *Javier Garcí and Fern o Fernández.*
 
@@ -50,9 +50,14 @@ Contributed by Chunyang Zhang.
    *Kiran, B Ravi and Sobh, Ibrahim and Talpaert, Victor and Mannion, Patrick and Sallab, Ahmad A. Al and Yogamani, Senthil, and Pérez, Patrick.* 
 
 
-## [Methods](#content) 
+## [Methods](#content)
+### [Model Free](#content) 
+1. **Provably efficient reinforcement learning with linear function approximation.** ICML, 2020. [paper](https://proceedings.mlr.press/v125/jin20a.html)
+
+   *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
+
 ### [Lyapunov Function](#content) 
-1. **Lyapunov design for safe reinforcement learning.** Journal of Machine Learning Research, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
+1. **Lyapunov design for safe reinforcement learning.** JMLR, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
 
    *Theodore J. Perkins and Andrew G. Barto.* 
 
