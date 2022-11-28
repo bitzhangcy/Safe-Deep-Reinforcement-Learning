@@ -56,10 +56,19 @@ Contributed by Chunyang Zhang.
 
    *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
 
-### [Lyapunov Function](#content) 
+### [Lyapunov Function](#content)
+1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
+
+   *Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duez-Guzmn, and Mohamamd Ghavamzadeh.* 
+
 1. **Lyapunov design for safe reinforcement learning.** JMLR, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
 
    *Theodore J. Perkins and Andrew G. Barto.* 
+
+### [Actor Critic](#content) 
+1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
+
+   *Qisong Yang, Thiago D. Sim˜ao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
 
 ### [Latent Representation](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
