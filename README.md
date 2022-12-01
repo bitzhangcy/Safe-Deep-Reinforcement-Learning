@@ -51,7 +51,7 @@ Contributed by Chunyang Zhang.
 
 
 ## [Methods](#content)
-### [Model Free](#content) 
+### [Model](#content) 
 1. **Provably efficient reinforcement learning with linear function approximation.** ICML, 2020. [paper](https://proceedings.mlr.press/v125/jin20a.html)
 
    *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
@@ -75,23 +75,65 @@ Contributed by Chunyang Zhang.
 
    *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
+### [Policy Optimization](#content) 
+1. **Constrained Policy Optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
+
+   *Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel.* 
+
+1. **Reward constrained policy optimization.** ICLR, 2019. [paper](https://openreview.net/forum?id=SkfrvsA9FX)
+
+   *Chen Tessler, Daniel J. Mankowitz, and Shie Mannor.* 
+
+1. **Projection-based constrained policy optimization.** ICLR, 2020. [paper](https://openreview.net/forum?id=rke3TJrtPS)
+
+   *Tsung-Yen Yang, Justinian Rosca, Karthik Narasimhan, and Peter J. Ramadge.* 
+
+1. **CRPO: A new approach for safe reinforcement learning with convergence guarantee.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/xu21a.html)
+
+   *Tengyu Xu, Yingbin Liang, and Guanghui Lan.* 
+
+1. **When to update your model: Constrained model-based reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
+
+   *Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, and Wenbing Huang.*
+
+### [Inverse RL](#content) 
+1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
+
+   *Shehryar Malik, Usman Anwar, Alireza Aghasi, and Ali Ahmed.* 
+
 ## [Mechanism](#content) 
+### [Safe Set](#content) 
+1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
+
+   *Akifumi Wachi and Yanan Sui .*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
    *Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, and Tie-Yan Liu.*
-
-### [Model-Shift Optimization](#content) 
-1. **When to update your model: Constrained model-based reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
-
-   *Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, Wenbing Huang.*
 
 ### [Continual Learning](#content) 
 1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
 
    *David Rolnick, Arun Ahuja, Jonathan Schwarz, Timothy Lillicrap, and Gregory Wayne.* 
 
-### [Intrinsic Rewards](#content) 
+### [Rewards](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
 
    *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
+
+### [Lagrangian](#content) 
+1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
+
+   *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
+
+## [Application](#content) 
+### [3D](#content) 
+1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
+
+   *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, and Kai Xu.*
+
+### [Attack](#content) 
+1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
+
+   *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
