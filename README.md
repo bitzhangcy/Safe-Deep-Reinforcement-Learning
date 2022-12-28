@@ -56,6 +56,10 @@ Contributed by Chunyang Zhang.
 
    *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
 
+1. **Model-based safe deep reinforcement learning via a constrained proximal policy optimization algorithm.** NIPS, 2022. [paper](https://arxiv.org/abs/2210.07573)
+
+   *Ashish Kumar Jayant and Shalabh Bhatnagar.* 
+
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
 
