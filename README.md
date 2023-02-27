@@ -1,6 +1,6 @@
-# Safe-Reinforcement-Learning
+# Safe-Deep-Reinforcement-Learning
 
-Safe Reinforcement Learning: Process of learning policies that maximize the expectation of the return in problems in which it is important to ensure reasonable system performance and/or respect safety constraints during the learning and/or deployment processes.
+***Safe Reinforcement Learning***: Process of learning policies that maximize the expectation of the return in problems in which it is important to ***ensure reasonable system performance*** and/or ***respect safety constraints*** during the learning and/or deployment processes.
 
 Contributed by Chunyang Zhang.
 
@@ -8,24 +8,43 @@ Contributed by Chunyang Zhang.
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#methods">2. Methods</a></td></tr>
+<tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#pinn">2.1 PINN</a></td>
-    <td>&ensp;<a href="#deeponet">2.2 DeepONet</a></td>
+    <td>&ensp;<a href="#model-based">2.1 Model-Based</a></td>
+    <td>&ensp;<a href="#model-free">2.2 Model-Free</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#fourier-operator">2.3 Fourier Operator</a></td>
-    <td>&ensp;<a href="#graph-networks">2.4 Graph Networks</a></td>
+    <td>&ensp;<a href="#lyapunov-function">2.3 Lyapunov Function</a></td>
+    <td>&ensp;<a href="#actor-critic">2.4 Actor-Critic</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#machine-learning">2.5 Machine Learning</a></td>
-    <td>&ensp;<a href="#identification">2.6 Identification</a></td>
+    <td>&ensp;<a href="#latent-representation">2.5 Latent Representation</a></td>
+    <td>&ensp;<a href="#policy-optimization">2.6 Policy Optimization</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#finite-element">2.7 Finite Element</a></td>
-    <td>&ensp;<a href="#convolutional-filter">2.8 Convolutional Filter</a></td>
+    <td>&ensp;<a href="#Inverse-rl">2.7 Inverse RL</a></td>
+    <td>&ensp;<a href="#meta-learning">2.8 Meta Learning</a></td>
+</tr>
+<tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
+<tr>
+    <td>&ensp;<a href="#analysis">3.1 Analysis</a></td>
+    <td>&ensp;<a href="#safe-set">3.2 Safe Set</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#deployment">3.3 Deployment</a></td>
+    <td>&ensp;<a href="#continual-learning">3.4 Continual Learning</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#reward">3.5 Reward</a></td>
+    <td>&ensp;<a href="#lagrangian">3.6 Lagrangian</a></td>
+</tr>
+<tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
+<tr>
+    <td>&ensp;<a href="#3-dimensional">4.1 3-Dimensional</a></td>
+    <td>&ensp;<a href="#cyber-attack">4.2 Cyber-Attack</a></td>
 </tr>
 </table>
+
 
 
 ## [Survey papers](#content)
@@ -50,8 +69,8 @@ Contributed by Chunyang Zhang.
    *Kiran, B Ravi and Sobh, Ibrahim and Talpaert, Victor and Mannion, Patrick and Sallab, Ahmad A. Al and Yogamani, Senthil, and Pérez, Patrick.* 
 
 
-## [Methods](#content)
-### [Model](#content) 
+## [Methodology](#content)
+### [Model-Based](#content) 
 1. **Provably efficient reinforcement learning with linear function approximation.** ICML, 2020. [paper](https://proceedings.mlr.press/v125/jin20a.html)
 
    *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
@@ -59,6 +78,11 @@ Contributed by Chunyang Zhang.
 1. **Model-based safe deep reinforcement learning via a constrained proximal policy optimization algorithm.** NIPS, 2022. [paper](https://arxiv.org/abs/2210.07573)
 
    *Ashish Kumar Jayant and Shalabh Bhatnagar.* 
+
+### [Model-Free](#content)
+1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
+
+   *Weiye Zhao, Tairan He, and Changliu Liu.* 
 
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
@@ -69,10 +93,10 @@ Contributed by Chunyang Zhang.
 
    *Theodore J. Perkins and Andrew G. Barto.* 
 
-### [Actor Critic](#content) 
+### [Actor-Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
-   *Qisong Yang, Thiago D. Sim˜ao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+   *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
 
 ### [Latent Representation](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
@@ -100,16 +124,31 @@ Contributed by Chunyang Zhang.
 
    *Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, and Wenbing Huang.*
 
-### [Inverse RL](#content) 
+### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
    *Shehryar Malik, Usman Anwar, Alireza Aghasi, and Ali Ahmed.* 
 
-## [Mechanism](#content) 
+1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
+
+   *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
+
+### [Meta Learning](#content)
+1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
+
+   *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
+
+
+## [Mechanism](#content)
+### [Analysis](#content) 
+1. **On the robustness of safe reinforcement learning under observational perturbations.** ICLR, 2023. [paper](https://openreview.net/forum?id=jbIYfq4Tr-)
+
+   *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, and Ding Zhao.*
+
 ### [Safe Set](#content) 
 1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
 
-   *Akifumi Wachi and Yanan Sui .*
+   *Akifumi Wachi and Yanan Sui.*
 
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
@@ -121,7 +160,7 @@ Contributed by Chunyang Zhang.
 
    *David Rolnick, Arun Ahuja, Jonathan Schwarz, Timothy Lillicrap, and Gregory Wayne.* 
 
-### [Rewards](#content) 
+### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
 
    *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
@@ -131,13 +170,14 @@ Contributed by Chunyang Zhang.
 
    *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
 
+
 ## [Application](#content) 
-### [3D](#content) 
+### [3-Dimensional](#content) 
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, and Kai Xu.*
 
-### [Attack](#content) 
+### [Cyber-Attack](#content) 
 1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
 
    *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
