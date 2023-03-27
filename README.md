@@ -79,6 +79,10 @@ Contributed by Chunyang Zhang.
 
    *Ashish Kumar Jayant and Shalabh Bhatnagar.* 
 
+1. **Conservative and adaptive penalty for model-based safe reinforcement learning.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20478)
+
+   *Yecheng Jason Ma, Andrew Shen, Osbert Bastani, and Dinesh Jayaraman.* 
+
 ### [Model-Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
 
