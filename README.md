@@ -128,6 +128,14 @@ Contributed by Chunyang Zhang.
 
    *Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, and Wenbing Huang.*
 
+1. **Constraints penalized Q-learning for safe offline reinforcement learning.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20855)
+
+   *Haoran Xu, Xianyuan Zhan, and Xiangyu Zhu.*
+
+1. **Exploring safer behaviors for deep reinforcement learning.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20737)
+
+   *Enrico Marchesini, Davide Corsi, and Alessandro Farinelli.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
