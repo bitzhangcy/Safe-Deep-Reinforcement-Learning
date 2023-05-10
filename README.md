@@ -23,7 +23,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#Inverse-rl">2.7 Inverse RL</a></td>
-    <td>&ensp;<a href="#meta-learning">2.8 Meta Learning</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -36,7 +36,11 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#reward">3.5 Reward</a></td>
-    <td>&ensp;<a href="#lagrangian">3.6 Lagrangian</a></td>
+    <td>&ensp;<a href="#lagrangian-method">3.6 Lagrangian Method</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#out-of-distribution">3.7 Out of Distribution</a></td>
+    <td>&ensp;<a href="#meta-learning">3.8 Meta Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -44,6 +48,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#cyber-attack">4.2 Cyber-Attack</a></td>
 </tr>
 </table>
+
+
 
 
 
@@ -145,11 +151,6 @@ Contributed by Chunyang Zhang.
 
    *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
 
-### [Meta Learning](#content)
-1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
-
-   *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
-
 
 ## [Mechanism](#content)
 ### [Analysis](#content) 
@@ -177,10 +178,20 @@ Contributed by Chunyang Zhang.
 
    *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
 
-### [Lagrangian](#content) 
+### [Lagrangian Method](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
 
    *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
+
+### [Out of Distribution](#content) 
+1. **Can agents run relay race with dtrangers? Generalization of RL to out-of-distribution trajectories.** ICRL, 2023. [paper](https://openreview.net/forum?id=ipflrGaf7ry)
+
+   *Licheng Lan, Huan Zhang, andCho-Jui Hsieh.* 
+
+### [Meta Learning](#content)
+1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
+
+   *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
 
 
 ## [Application](#content) 
