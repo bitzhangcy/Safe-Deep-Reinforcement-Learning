@@ -22,7 +22,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#policy-optimization">2.6 Policy Optimization</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#Inverse-rl">2.7 Inverse RL</a></td>
+    <td>&ensp;<a href="#inverse-rl">2.7 Inverse RL</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
@@ -42,12 +42,17 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#out-of-distribution">3.7 Out of Distribution</a></td>
     <td>&ensp;<a href="#meta-learning">3.8 Meta Learning</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#transformer">3.9 Transformer</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#3-dimensional">4.1 3-Dimensional</a></td>
     <td>&ensp;<a href="#cyber-attack">4.2 Cyber-Attack</a></td>
 </tr>
 </table>
+
 
 
 
@@ -192,6 +197,11 @@ Contributed by Chunyang Zhang.
 1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
 
    *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
+
+### [Transformer](#content)
+1. **Constrained decision Transformer for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07351)
+
+   *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
 
 
 ## [Application](#content) 
