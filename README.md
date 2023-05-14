@@ -10,12 +10,12 @@ Contributed by Chunyang Zhang.
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#model-based">2.1 Model-Based</a></td>
-    <td>&ensp;<a href="#model-free">2.2 Model-Free</a></td>
+    <td>&ensp;<a href="#model-based">2.1 Model Based</a></td>
+    <td>&ensp;<a href="#model-free">2.2 Model Free</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#lyapunov-function">2.3 Lyapunov Function</a></td>
-    <td>&ensp;<a href="#actor-critic">2.4 Actor-Critic</a></td>
+    <td>&ensp;<a href="#actor-critic">2.4 Actor Critic</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#latent-representation">2.5 Latent Representation</a></td>
@@ -23,7 +23,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#inverse-rl">2.7 Inverse RL</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#multi-agent">2.8 Multi Agent</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -51,7 +51,13 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#3-dimensional">4.1 3-Dimensional</a></td>
     <td>&ensp;<a href="#cyber-attack">4.2 Cyber-Attack</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#autonomous vehicles">4.3 Autonomous Vehicles</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 </table>
+
+
 
 
 
@@ -81,7 +87,7 @@ Contributed by Chunyang Zhang.
 
 
 ## [Methodology](#content)
-### [Model-Based](#content) 
+### [Model Based](#content) 
 1. **Provably efficient reinforcement learning with linear function approximation.** ICML, 2020. [paper](https://proceedings.mlr.press/v125/jin20a.html)
 
    *Chi Jin, Zhuoran Yang, Zhaoran Wang, and Michael I Jordan.* 
@@ -94,7 +100,7 @@ Contributed by Chunyang Zhang.
 
    *Yecheng Jason Ma, Andrew Shen, Osbert Bastani, and Dinesh Jayaraman.* 
 
-### [Model-Free](#content)
+### [Model Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
 
    *Weiye Zhao, Tairan He, and Changliu Liu.* 
@@ -108,7 +114,7 @@ Contributed by Chunyang Zhang.
 
    *Theodore J. Perkins and Andrew G. Barto.* 
 
-### [Actor-Critic](#content) 
+### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
    *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
@@ -151,6 +157,15 @@ Contributed by Chunyang Zhang.
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
    *Shehryar Malik, Usman Anwar, Alireza Aghasi, and Ali Ahmed.* 
+
+1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
+
+   *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
+
+### [Multi Agent](#content)
+1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
+
+   *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
 
 1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
 
@@ -214,3 +229,8 @@ Contributed by Chunyang Zhang.
 1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
 
    *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
+
+### [Autonomous Vehicles](#content) 
+1. **Dense reinforcement learning for safety validation of autonomous vehicles.** Nature, 2023. [paper](https://www.nature.com/articles/s41586-023-05732-2)
+
+   *Shuo Feng, Haowei Sun, Xintao Yan, Haojie Zhu, Zhengxia Zou, Shengyin Shen, and Henry X. Liu.*
