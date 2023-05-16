@@ -105,6 +105,10 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Tairan He, and Changliu Liu.* 
 
+1. **More for less: Safe policy improvement with stronger performance guarantees.** IJCAI, 2023. [paper](https://arxiv.org/abs/2305.07958)
+
+   *Patrick Wienhöft, Marnix Suilen, Thiago D. Simão, Clemens Dubslaff, Christel Baier, and Nils Jansen.* 
+
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
 
