@@ -57,13 +57,6 @@ Contributed by Chunyang Zhang.
 </tr>
 </table>
 
-
-
-
-
-
-
-
 ## [Survey papers](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
@@ -108,6 +101,10 @@ Contributed by Chunyang Zhang.
 1. **More for less: Safe policy improvement with stronger performance guarantees.** IJCAI, 2023. [paper](https://arxiv.org/abs/2305.07958)
 
    *Patrick Wienhöft, Marnix Suilen, Thiago D. Simão, Clemens Dubslaff, Christel Baier, and Nils Jansen.* 
+
+1. **Model-free safe reinforcement learning through neural barrier certificate.** RAL, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10023989)
+
+   *Yujie Yang, Yuxuan Jiang, Yichen Liu,  Jianyu Chen, and Shengbo Eben Li.* 
 
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
