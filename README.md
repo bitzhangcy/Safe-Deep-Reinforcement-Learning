@@ -28,7 +28,7 @@ Contributed by Chunyang Zhang.
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#analysis">3.1 Analysis</a></td>
-    <td>&ensp;<a href="#safe-set">3.2 Safe Set</a></td>
+    <td>&ensp;<a href="#library">3.2 Library</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#deployment">3.3 Deployment</a></td>
@@ -44,7 +44,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#transformer">3.9 Transformer</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#safe-set"></a>3.10 Safe Set</td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -56,6 +56,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 ## [Survey papers](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
@@ -154,6 +155,10 @@ Contributed by Chunyang Zhang.
 
    *Enrico Marchesini, Davide Corsi, and Alessandro Farinelli.*
 
+1. **Constrained proximal policy optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.14216)
+
+   *Chengbin Xuan, Feng Zhang, Faliang Yin, and Hak-Keung Lam.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
@@ -162,6 +167,10 @@ Contributed by Chunyang Zhang.
 1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
 
    *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
+
+1. **Maximum causal entropy inverse constrained reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.02857)
+
+   *Mattijs Baert, Pietro Mazzaglia, Sam Leroux, and Pieter Simoens.* 
 
 ### [Multi Agent](#content)
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
@@ -179,10 +188,10 @@ Contributed by Chunyang Zhang.
 
    *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, and Ding Zhao.*
 
-### [Safe Set](#content) 
-1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
+### [Linrary](#content) 
+1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
-   *Akifumi Wachi and Yanan Sui.*
+   *Weiye Zhao, Rui Chen, Yifan Sun, Ruixuan Liu, Tianhao Wei, and Changliu Liu.*
 
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
@@ -218,6 +227,11 @@ Contributed by Chunyang Zhang.
 1. **Constrained decision Transformer for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07351)
 
    *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
+
+### [Safe Set](#content) 
+1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
+
+   *Akifumi Wachi and Yanan Sui.*
 
 
 ## [Application](#content) 
