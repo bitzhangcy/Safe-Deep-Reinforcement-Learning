@@ -176,6 +176,10 @@ Contributed by Chunyang Zhang.
 
    *Mattijs Baert, Pietro Mazzaglia, Sam Leroux, and Pieter Simoens.* 
 
+1. **Identifiability and generalizability in constrained inverse reinforcement learning.** ICML, 2023. [paper](https://arxiv.org/abs/2306.00629)
+
+   *Andreas Schlaginhaufen and Maryam Kamgarpour.* 
+
 ### [Multi Agent](#content)
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
 
