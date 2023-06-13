@@ -23,7 +23,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#inverse-rl">2.7 Inverse RL</a></td>
-    <td>&ensp;<a href="#multi-agent">2.8 Multi Agent</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -31,31 +31,41 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#library">3.2 Library</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#deployment">3.3 Deployment</a></td>
-    <td>&ensp;<a href="#continual-learning">3.4 Continual Learning</a></td>
+    <td>&ensp;<a href="#theory">3.3 Theory</a></td>
+    <td>&ensp;<a href="#primal-dual">3.4 Primal Dual</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#reward">3.5 Reward</a></td>
-    <td>&ensp;<a href="#lagrangian-method">3.6 Lagrangian Method</a></td>
+    <td>&ensp;<a href="#deployment">3.5 Deployment</a></td>
+    <td>&ensp;<a href="#continual-learning">3.6 Continual Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#out-of-distribution">3.7 Out of Distribution</a></td>
-    <td>&ensp;<a href="#meta-learning">3.8 Meta Learning</a></td>
+    <td>&ensp;<a href="#reward">3.7 Reward</a></td>
+    <td>&ensp;<a href="#lagrangian-method">3.8 Lagrangian Method</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#transformer">3.9 Transformer</a></td>
-    <td>&ensp;<a href="#safe-set"></a>3.10 Safe Set</td>
+    <td>&ensp;<a href="#out-of-distribution">3.9 Out of Distribution</a></td>
+    <td>&ensp;<a href="#meta-learning">3.10 Meta Learning</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#transformer">3.11 Transformer</a></td>
+    <td>&ensp;<a href="#safe-set">3.12 Safe Set</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#multi-agent">3.13 Multi Agent</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#3-dimensional">4.1 3-Dimensional</a></td>
-    <td>&ensp;<a href="#cyber-attack">4.2 Cyber-Attack</a></td>
+    <td>&ensp;<a href="#three-dimension">4.1 Three Dimension</a></td>
+    <td>&ensp;<a href="#cyber-attack">4.2 Cyber Attack</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#autonomous vehicles">4.3 Autonomous Vehicles</a></td>
+    <td>&ensp;<a href="#autonomous-vehicles">4.3 Autonomous Vehicles</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
+
 
 
 ## [Survey papers](#content)
@@ -94,6 +104,10 @@ Contributed by Chunyang Zhang.
 
    *Yecheng Jason Ma, Andrew Shen, Osbert Bastani, and Dinesh Jayaraman.* 
 
+1. **DOPE: Doubly optimistic and pessimistic exploration for safe reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=U4BUMoVTrB2)
+
+   *Archana Bura, Aria Hasanzadezonuzy, Dileep Kalathil, Srinivas Shakkottai, and Jean-Francois Chamberland.* 
+
 ### [Model Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
 
@@ -106,6 +120,10 @@ Contributed by Chunyang Zhang.
 1. **Model-free safe reinforcement learning through neural barrier certificate.** RAL, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10023989)
 
    *Yujie Yang, Yuxuan Jiang, Yichen Liu,  Jianyu Chen, and Shengbo Eben Li.* 
+
+1. **Provably efficient model-free constrained RL with linear function approximation.** NIPS, 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/56b8f22d895c45f60eaac9580152afd9-Abstract-Conference.html)
+
+   *Arnob Ghosh, Xingyu Zhou, and Ness Shroff.* 
 
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
@@ -163,6 +181,10 @@ Contributed by Chunyang Zhang.
 
    *Chengbin Xuan, Feng Zhang, Faliang Yin, and Hak-Keung Lam.*
 
+1. **Safe policy improvement for POMDPs via finite-state controllers.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.04939)
+
+   *Thiago D. Simão, Marnix Suilen, and Nils Jansen.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
@@ -180,15 +202,6 @@ Contributed by Chunyang Zhang.
 
    *Andreas Schlaginhaufen and Maryam Kamgarpour.* 
 
-### [Multi Agent](#content)
-1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
-
-   *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
-
-1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
-
-   *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
-
 
 ## [Mechanism](#content)
 ### [Analysis](#content) 
@@ -205,10 +218,44 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Ruixuan Liu, Tianhao Wei, and Changliu Liu.*
 
+### [Theory](#content) 
+1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
+
+   *Donghao Li, Ruiquan Huang, Cong Shen, and Jing Yang.*
+
+1. **Near-optimal sample complexity bounds for constrained MDPs.** NIPS, 2022. [paper](https://openreview.net/forum?id=ZJ7Lrtd12x_)
+
+   *Sharan Vaswani, Lin F. Yang, and Csaba Szepesvári.*
+
+1. **Learning policies with zero or bounded constraint violation for constrained MDPs.** NIPS, 2021. [paper](https://openreview.net/forum?id=Nl7VO_Y7K4Q)
+
+   *Tao Liu, Ruida Zhou, Dileep Kalathil, Panganamala Kumar, and Chao Tian.*
+
+### [Primal Dual](#content) 
+1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
+
+   *Liangyu Zhang, Yang Peng, Wenhao Yang, and Zhihua Zhang.*
+
+1. **Policy-based primal-dual methods for convex constrained markov decision processes.** AAAI, 2023. [paper](https://arxiv.org/abs/2205.10715v3)
+
+   *Donghao Ying, Mengzi Amy Guo, Yuhao Ding, Javad Lavaei, and Zuo-Jun Max Shen.*
+
+1. **Provably efficient primal-dual reinforcement learning for CMDPs with non-stationary objectives and constraints.** AAAI, 2023. [paper](https://arxiv.org/abs/2201.11965v4)
+
+   *Yuhao Ding and Javad Lavaei.*
+
+1. **Achieving zero constraint violation for constrained reinforcement learning via primal-dual approach.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20281)
+
+   *Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, and Vaneet Aggarwal.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
    *Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, and Tie-Yan Liu.*
+
+1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
+
+   *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
 
 ### [Continual Learning](#content) 
 1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
@@ -219,6 +266,14 @@ Contributed by Chunyang Zhang.
 1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
 
    *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
+
+1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
+
+   *Tairan He, Weiye Zhao, and Changliu Liu.* 
+
+1. **Anchor-changing regularized natural policy gradient for multi-objective reinforcement learning.** NIPS, 2022. [paper](https://arxiv.org/abs/2206.05357v2)
+
+   *Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, and Chao Tian.* 
 
 ### [Lagrangian Method](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
@@ -245,14 +300,19 @@ Contributed by Chunyang Zhang.
 
    *Akifumi Wachi and Yanan Sui.*
 
+### [Multi Agent](#content)
+1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
+
+   *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
+
 
 ## [Application](#content) 
-### [3-Dimensional](#content) 
+### [Three Dimension](#content) 
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, and Kai Xu.*
 
-### [Cyber-Attack](#content) 
+### [Cyber Attack](#content) 
 1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
 
    *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
