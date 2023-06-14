@@ -231,6 +231,10 @@ Contributed by Chunyang Zhang.
 
    *Tao Liu, Ruida Zhou, Dileep Kalathil, Panganamala Kumar, and Chao Tian.*
 
+1. **Provably learning Nash policies in constrained Markov potential games.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.07749)
+
+   *Pragnya Alatur, Giorgia Ramponi, Niao He, and Andreas Krause.*
+
 ### [Primal Dual](#content) 
 1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
 
