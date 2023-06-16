@@ -218,6 +218,10 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Ruixuan Liu, Tianhao Wei, and Changliu Liu.*
 
+1. **Datasets and benchmarks for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09303)
+
+   *Zuxin Liu, Zijian Guo, Haohong Lin, Yihang Yao, Jiacheng Zhu, Zhepeng Cen, Hanjiang Hu, Wenhao Yu, Tingnan Zhang, Jie Tan, and Ding Zhao.*
+
 ### [Theory](#content) 
 1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
 
