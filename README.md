@@ -5,7 +5,6 @@
 Contributed by Chunyang Zhang.
 
 ## [Content](#content)
-
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
@@ -52,7 +51,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#multi-agent">3.13 Multi Agent</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#knowledge-distillation">3.14 Knowledge Distillation</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -67,8 +66,7 @@ Contributed by Chunyang Zhang.
 
 
 
-
-## [Survey papers](#content)
+## [Survey](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
    *Javier Garcí and Fern o Fernández.*
@@ -312,6 +310,11 @@ Contributed by Chunyang Zhang.
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
 
    *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
+
+### [Knowledge Distillation](#content)
+1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
+
+   *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
 
 
 ## [Application](#content) 
