@@ -183,6 +183,10 @@ Contributed by Chunyang Zhang.
 
    *Thiago D. Simão, Marnix Suilen, and Nils Jansen.*
 
+1. **Policy regularization with dataset constraint for offline reinforcement learning.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06569)
+
+   *Yuhang Ran, Yichen Li, Fuxiang Zhang, Zongzhang Zhang, and Yang Yu.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
@@ -199,6 +203,10 @@ Contributed by Chunyang Zhang.
 1. **Identifiability and generalizability in constrained inverse reinforcement learning.** ICML, 2023. [paper](https://arxiv.org/abs/2306.00629)
 
    *Andreas Schlaginhaufen and Maryam Kamgarpour.* 
+
+1. **FP-IRL: Fokker-Planck-based inverse reinforcement learning -- A physics-constrained approach to Markov decision processes.** ICML, 2023. [paper](https://arxiv.org/abs/2306.10407)
+
+   *Chengyang Huang, Siddhartha Srivastava, Xun Huan, and Krishna Garikipati.* 
 
 
 ## [Mechanism](#content)
