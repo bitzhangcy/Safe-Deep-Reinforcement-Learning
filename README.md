@@ -22,7 +22,11 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#inverse-rl">2.7 Inverse RL</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#modeling">2.8 Modeling</a></td>
+</tr>Evaluation
+<tr>
+    <td>&ensp;<a href="#offline-learning">2.9 Offline Learning</a></td>
+    <td>&ensp;<a href="#evaluation">2.10 Evaluation</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -53,9 +57,13 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#multi-agent">3.13 Multi Agent</a></td>
     <td>&ensp;<a href="#knowledge-distillation">3.14 Knowledge Distillation</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#causal-reasoning">3.15 Causal Reasoning</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#three-dimension">4.1 Three Dimension</a></td>
+    <td>&ensp;<a href="#three-dimension">4.1 Three Dimension<//a></td>
     <td>&ensp;<a href="#cyber-attack">4.2 Cyber Attack</a></td>
 </tr>
 <tr>
@@ -63,7 +71,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
-
 
 
 ## [Survey](#content)
@@ -81,7 +88,7 @@ Contributed by Chunyang Zhang.
 
 1. **A review of safe reinforcement learning: Methods, theory and applications.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.10330)
 
-   *Shangding Gu, Long Yang, Yali Du, Guang Chen, Florian Walter, Jun Wang, Yaodong Yang, and Alois Knoll.* 
+   *Shangding Gu, Long Yang, Yali Du, Guang Chen, Florian Walter, Ju*n Wang, Yaodong Yang, and Alois Knoll.* 
 
 1. **Deep reinforcement learning for autonomous driving: A survey.** IEEE Transactions on Intelligent Transportation Systems, 2021. [paper](https://ieeexplore.ieee.org/document/9351818)
 
@@ -105,6 +112,14 @@ Contributed by Chunyang Zhang.
 1. **DOPE: Doubly optimistic and pessimistic exploration for safe reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=U4BUMoVTrB2)
 
    *Archana Bura, Aria Hasanzadezonuzy, Dileep Kalathil, Srinivas Shakkottai, and Jean-Francois Chamberland.* 
+
+1. **Risk sensitive model-based reinforcement learning using uncertainty guided planning.** NIPS, 2021. [paper](https://arxiv.org/abs/2111.04972)
+
+   *Garrett Thomas, Yuping Luo, and Tengyu Ma.* 
+
+1. **Safe reinforcement learning by imagining the near future.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/73b277c11266681122132d024f53a75b-Abstract.html)
+
+   *Stefan Radic Webster and Peter Flach.* 
 
 ### [Model Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
@@ -136,7 +151,15 @@ Contributed by Chunyang Zhang.
 
    *Daniel C.H. Tan, Fernando Acero, Robert McCarthy, Dimitrios Kanoulas, and Zhibin Li.* 
 
+1. **A barrier-Lyapunov actor-critic reinforcement learning approach for safe and stable control.** CDC, 2023. [paper](https://arxiv.org/abs/2304.04066)
+
+   *Liqun Zhao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
+
 ### [Actor Critic](#content) 
+1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
+
+   *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
    *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
@@ -187,6 +210,22 @@ Contributed by Chunyang Zhang.
 
    *Yuhang Ran, Yichen Li, Fuxiang Zhang, Zongzhang Zhang, and Yang Yu.*
 
+1. **Constrained update projection approach to safe policy optimization.** NIPS, 2022. [paper](https://openreview.net/forum?id=22hMrSbQXzt)
+
+   *Long Yang, Jiaming Ji, Juntao Dai, Linrui Zhang, Binbin Zhou, Pengfei Li, Yaodong Yang, and Gang Pan.*
+
+1. **Constrained variational policy optimization for safe reinforcement learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/liu22b.html)
+
+   *Zuxin Liu, Zhepeng Cen, Vladislav Isenbaev, Wei Liu, Steven Wu, Bo Li, and Ding Zhao.*
+
+1. **Towards safe reinforcement learning with a safety editor policy.** NIPS, 2022. [paper](https://openreview.net/forum?id=U1m_93ansV)
+
+   *Haonan Yu, Wei Xu, and Haichao Zhang.*
+
+1. **CUP: A conservative update policy algorithm for safe reinforcement learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.07565)
+
+   *Long Yang, Jiaming Ji, Juntao Dai, Yu Zhang, Pengfei Li, and Gang Pan.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
@@ -208,6 +247,21 @@ Contributed by Chunyang Zhang.
 
    *Chengyang Huang, Siddhartha Srivastava, Xun Huan, and Krishna Garikipati.* 
 
+### [Modeling](#content)
+1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
+
+   *Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, and Dacheng Tao.* 
+
+### [Offline Learning](#content)
+1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
+
+   *Hager Radi, Josiah P. Hanna, Peter Stone, and Matthew E. Taylor.* 
+
+### [Evaluation](#content)
+1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
+
+   *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
+
 
 ## [Mechanism](#content)
 ### [Analysis](#content) 
@@ -218,6 +272,18 @@ Contributed by Chunyang Zhang.
 1. **Detecting adversarial directions in deep reinforcement learning to make robust decisions.** ICML, 2023. [paper](https://arxiv.org/abs/2306.05873)
 
    *Ezgi Korkmaz and  Jonah Brown-Cohen.*
+
+1. **Efficient trust region-based safe reinforcement learning with low-bias distributional actor-critic.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10923)
+
+   *Dohyeong Kim, Kyungjae Lee, and Songhwai Oh.*
+
+1. **Don't do it: Safer reinforcement learning with rule-based guidance.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.13819)
+
+   *Ekaterina Nikonova, Cheng Xue, and Jochen Renz.*
+
+1. **Saute RL: Almost surely safe reinforcement learning using state augmentation.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/sootla22a)
+
+   *Aivar Sootla, Alexander I Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David H Mguni, Jun Wang, and Haitham Ammar.*
 
 ### [Linrary](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
@@ -244,6 +310,10 @@ Contributed by Chunyang Zhang.
 1. **Provably learning Nash policies in constrained Markov potential games.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.07749)
 
    *Pragnya Alatur, Giorgia Ramponi, Niao He, and Andreas Krause.*
+
+1. **Provably safe reinforcement learning: A theoretical and experimental comparison.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.06750)
+
+   *Hanna Krasowski, Jakob Thumm, Marlon Müller, Lukas Schäfer, Xiao Wang, and Matthias Althoff.*
 
 ### [Primal Dual](#content) 
 1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
@@ -289,6 +359,10 @@ Contributed by Chunyang Zhang.
 
    *Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, and Chao Tian.* 
 
+1. **ROSARL: Reward-only safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00035)
+
+   *Geraud Nangue Tasse, Tamlin Love, Mark Nemecek, Steven James, and Benjamin Rosman.* 
+
 ### [Lagrangian Method](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
 
@@ -309,10 +383,18 @@ Contributed by Chunyang Zhang.
 
    *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
 
+1. **Transdreamer: Reinforcement learning with Transformer world models.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.09481)
+
+   *Chang Chen, Yi-Fu Wu, Jaesik Yoon, and Sungjin Ahn.* 
+
 ### [Safe Set](#content) 
 1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
 
    *Akifumi Wachi and Yanan Sui.*
+
+1. **Reachability constrained reinforcement learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/yu22d.html)
+
+   *Dongjie Yu, Haitong Ma, Shengbo Li, and Jianyu Chen.*
 
 ### [Multi Agent](#content)
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
@@ -323,6 +405,11 @@ Contributed by Chunyang Zhang.
 1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
 
    *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
+
+### [Causal Reasoning](#content)
+1. **Causal temporal reasoning for Markov decision processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08712v2)
+
+   *Milad Kazemi and Nicola Paoletti.* 
 
 
 ## [Application](#content) 
