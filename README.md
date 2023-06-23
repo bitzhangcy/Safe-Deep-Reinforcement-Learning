@@ -226,6 +226,10 @@ Contributed by Chunyang Zhang.
 
    *Long Yang, Jiaming Ji, Juntao Dai, Yu Zhang, Pengfei Li, and Gang Pan.*
 
+1. **State-wise constrained policy optimization.** arXiv, 20223 [paper](https://arxiv.org/abs/2306.12594)
+
+   *Weiye Zhao, Rui Chen, Yifan Sun, Tianhao Wei, and Changliu Liu.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
