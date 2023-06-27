@@ -289,7 +289,7 @@ Contributed by Chunyang Zhang.
 
    *Aivar Sootla, Alexander I Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David H Mguni, Jun Wang, and Haitham Ammar.*
 
-### [Linrary](#content) 
+### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Ruixuan Liu, Tianhao Wei, and Changliu Liu.*
@@ -297,6 +297,10 @@ Contributed by Chunyang Zhang.
 1. **Datasets and benchmarks for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09303)
 
    *Zuxin Liu, Zijian Guo, Haohong Lin, Yihang Yao, Jiacheng Zhu, Zhepeng Cen, Hanjiang Hu, Wenhao Yu, Tingnan Zhang, Jie Tan, and Ding Zhao.*
+
+1. **InterCode: Standardizing and benchmarking interactive coding with execution feedback.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.14898)
+
+   *John Yang, Akshara Prabhakar, Karthik Narasimhan, and Shunyu Yao.*
 
 ### [Theory](#content) 
 1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
