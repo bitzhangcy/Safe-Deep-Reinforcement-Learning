@@ -59,7 +59,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#causal-reasoning">3.15 Causal Reasoning</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#diffusion-models">3.16 Diffusion Models</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -71,6 +71,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 ## [Survey](#content)
@@ -418,6 +419,11 @@ Contributed by Chunyang Zhang.
 1. **Causal temporal reasoning for Markov decision processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08712v2)
 
    *Milad Kazemi and Nicola Paoletti.* 
+
+### [Diffusion Models](#content)
+1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
+
+   *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
 
 
 ## [Application](#content) 
