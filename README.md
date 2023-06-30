@@ -410,6 +410,10 @@ Contributed by Chunyang Zhang.
 
    *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
 
+1. **Safe model-based multi-agent mean-field reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.17052)
+
+   *Matej Jusup, Barna Pásztor, Tadeusz Janik, Kenan Zhang, Francesco Corman, Andreas Krause, and Ilija Bogunovic.* 
+
 ### [Knowledge Distillation](#content)
 1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
 
