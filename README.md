@@ -68,9 +68,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#autonomous-vehicles">4.3 Autonomous Vehicles</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#bandits">4.4 Bandits</a></td>
 </tr>
 </table>
+
 
 
 
@@ -156,11 +157,11 @@ Contributed by Chunyang Zhang.
 
    *Liqun Zhao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
 
+1. **Enforcing hard constraints with soft barriers: Safe reinforcement learning in unknown stochastic environments.** ICML, 2023. [paper](https://openreview.net/forum?id=NbC9a9zS5K)
+
+   *Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, and Qi Zhu.* 
+
 ### [Actor Critic](#content) 
-1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
-
-   *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
-
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
    *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
@@ -171,7 +172,7 @@ Contributed by Chunyang Zhang.
    *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
 ### [Policy Optimization](#content) 
-1. **Constrained Policy Optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
+1. **Constrained policy optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
 
    *Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel.* 
 
@@ -231,6 +232,14 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Tianhao Wei, and Changliu Liu.*
 
+1. **Scalable safe policy improvement via Monte Carlo tree search.** ICML, 20223 [paper](https://openreview.net/forum?id=tevbBSzSfK)
+
+   *Alberto Castellini, Federico Bianchi, Edoardo Zorzi, Thiago D. Simão, Alessandro Farinelli, and Matthijs T. J. Spaan.*
+
+1. **Towards robust and safe reinforcement learning with Benign off-policy data.** ICML, 20223 [paper](https://openreview.net/forum?id=LB0aNUgIaB)
+
+   *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Yihang Yao, Hanjiang Hu, and Ding Zhao.*
+
 ### [Inverse RL](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
@@ -261,6 +270,10 @@ Contributed by Chunyang Zhang.
 1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
 
    *Hager Radi, Josiah P. Hanna, Peter Stone, and Matthew E. Taylor.* 
+
+1. **Safe offline reinforcement learning with real-time budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=jrYVLd3wqk)
+
+   *Qian Lin, Bo Tang, Zifan Wu, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
 
 ### [Evaluation](#content)
 1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
@@ -388,7 +401,7 @@ Contributed by Chunyang Zhang.
    *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
 
 ### [Transformer](#content)
-1. **Constrained decision Transformer for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07351)
+1. **Constrained decision Transformer for offline safe reinforcement learning.** ICML, 2023. [paper](https://openreview.net/forum?id=9VKCBHESq0)
 
    *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
 
@@ -404,6 +417,10 @@ Contributed by Chunyang Zhang.
 1. **Reachability constrained reinforcement learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/yu22d.html)
 
    *Dongjie Yu, Haitong Ma, Shengbo Li, and Jianyu Chen.*
+
+1. **A near-optimal algorithm for safe reinforcement learning under instantaneous hard constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=3HMO9iSBdy)
+
+   *Ming Shi, Yingbin Liang, and Ness Shroff.*
 
 ### [Multi Agent](#content)
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
@@ -445,3 +462,8 @@ Contributed by Chunyang Zhang.
 1. **Dense reinforcement learning for safety validation of autonomous vehicles.** Nature, 2023. [paper](https://www.nature.com/articles/s41586-023-05732-2)
 
    *Shuo Feng, Haowei Sun, Xintao Yan, Haojie Zhu, Zhengxia Zou, Shengyin Shen, and Henry X. Liu.*
+
+### [Bandits](#content) 
+1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
+
+   *Yunlong Hou, Vincent Tan, and Zixin Zhong.*
