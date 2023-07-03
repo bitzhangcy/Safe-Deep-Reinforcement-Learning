@@ -354,6 +354,10 @@ Contributed by Chunyang Zhang.
 
    *Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, and Vaneet Aggarwal.*
 
+1. **Probabilistic constraint for safety-critical reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.17279)
+
+   *Weiqin Chen, Dharmashankar Subramanian, and Santiago Paternain.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
