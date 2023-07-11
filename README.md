@@ -303,6 +303,10 @@ Contributed by Chunyang Zhang.
 
    *Aivar Sootla, Alexander I Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David H Mguni, Jun Wang, and Haitham Ammar.*
 
+1. **Continual learning as computationally constrained reinforcement learning..** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04345)
+
+   *Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, Yueyang Liu, and Benjamin Van Roy.*
+
 ### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
