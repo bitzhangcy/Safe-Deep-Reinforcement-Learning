@@ -362,6 +362,10 @@ Contributed by Chunyang Zhang.
 
    *Weiqin Chen, Dharmashankar Subramanian, and Santiago Paternain.*
 
+1. **Last-iterate convergent policy gradient primal-dual methods for constrained MDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.11700)
+
+   *Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, and Alejandro Ribeiro.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
