@@ -402,6 +402,10 @@ Contributed by Chunyang Zhang.
 
    *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
 
+1. **Safe DreamerV3: Safe reinforcement learning with world mdels.** arXiv 2023. [paper](https://arxiv.org/abs/2307.07176)
+
+   *Weidong Huang, Jiaming Ji, Borong Zhang, Chunhe Xia, and Yaodong Yang.* 
+
 ### [Out of Distribution](#content) 
 1. **Can agents run relay race with dtrangers? Generalization of RL to out-of-distribution trajectories.** ICRL, 2023. [paper](https://openreview.net/forum?id=ipflrGaf7ry)
 
@@ -457,6 +461,11 @@ Contributed by Chunyang Zhang.
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
    *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
+
+### [Variational Optimization](#content)
+1. **Safe reinforcement learning as Wasserstein variational inference: Formal methods for interpretability.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07084)
+
+   *Yanran Wang and David Boyle.* 
 
 
 ## [Application](#content) 
