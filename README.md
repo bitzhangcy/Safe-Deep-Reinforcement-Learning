@@ -73,7 +73,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
 ## [Survey](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
@@ -227,15 +226,15 @@ Contributed by Chunyang Zhang.
 
    *Long Yang, Jiaming Ji, Juntao Dai, Yu Zhang, Pengfei Li, and Gang Pan.*
 
-1. **State-wise constrained policy optimization.** arXiv, 20223 [paper](https://arxiv.org/abs/2306.12594)
+1. **State-wise constrained policy optimization.** arXiv, 2023 [paper](https://arxiv.org/abs/2306.12594)
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Tianhao Wei, and Changliu Liu.*
 
-1. **Scalable safe policy improvement via Monte Carlo tree search.** ICML, 20223 [paper](https://openreview.net/forum?id=tevbBSzSfK)
+1. **Scalable safe policy improvement via Monte Carlo tree search.** ICML, 2023 [paper](https://openreview.net/forum?id=tevbBSzSfK)
 
    *Alberto Castellini, Federico Bianchi, Edoardo Zorzi, Thiago D. Simão, Alessandro Farinelli, and Matthijs T. J. Spaan.*
 
-1. **Towards robust and safe reinforcement learning with Benign off-policy data.** ICML, 20223 [paper](https://openreview.net/forum?id=LB0aNUgIaB)
+1. **Towards robust and safe reinforcement learning with Benign off-policy data.** ICML, 2023 [paper](https://openreview.net/forum?id=LB0aNUgIaB)
 
    *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Yihang Yao, Hanjiang Hu, and Ding Zhao.*
 
