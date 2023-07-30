@@ -6,7 +6,7 @@ Contributed by Chunyang Zhang.
 
 ## [Content](#content)
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#methodology">2. Methodology</a></td></tr>
 <tr>
     <td>&ensp;<a href="#model-based">2.1 Model Based</a></td>
@@ -59,7 +59,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#causal-reasoning">3.15 Causal Reasoning</a></td>
-    <td>&ensp;<a href="#diffusion-models">3.16 Diffusion Models</a></td>
+    <td>&ensp;<a href="#diffusion-model">3.16 Diffusion Model</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -71,7 +71,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#bandits">4.4 Bandits</a></td>
 </tr>
 </table>
-
 
 
 
@@ -457,7 +456,7 @@ Contributed by Chunyang Zhang.
 
    *Milad Kazemi and Nicola Paoletti.* 
 
-### [Diffusion Models](#content)
+### [Diffusion Model](#content)
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
    *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
