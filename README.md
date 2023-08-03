@@ -121,6 +121,10 @@ Contributed by Chunyang Zhang.
 
    *Stefan Radic Webster and Peter Flach.* 
 
+1. **Approximate model-based shielding for safe reinforcement learning.** ECAL, 2023. [paper](https://arxiv.org/abs/2308.00707)
+
+   *Alexander W. Goodall and Francesco Belardinelli.* 
+
 ### [Model Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
 
