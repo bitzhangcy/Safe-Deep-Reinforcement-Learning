@@ -408,6 +408,10 @@ Contributed by Chunyang Zhang.
 
    *Weidong Huang, Jiaming Ji, Borong Zhang, Chunhe Xia, and Yaodong Yang.* 
 
+1. **Robust Lagrangian and adversarial policy gradient for robust constrained Markov decision processes.** arXiv 2023. [paper](https://arxiv.org/abs/2308.11267)
+
+   *David M. Bossens.* 
+
 ### [Out of Distribution](#content) 
 1. **Can agents run relay race with dtrangers? Generalization of RL to out-of-distribution trajectories.** ICRL, 2023. [paper](https://openreview.net/forum?id=ipflrGaf7ry)
 
