@@ -343,6 +343,10 @@ Contributed by Chunyang Zhang.
 
    *Hanna Krasowski, Jakob Thumm, Marlon Müller, Lukas Schäfer, Xiao Wang, and Matthias Althoff.*
 
+1. **Shielded reinforcement learning for hybrid systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14424)
+
+   *Asger Horn Brorholt, Peter Gjøl Jensen, Kim Guldstrand Larsen, Florian Lorber, and Christian Schilling.*
+
 ### [Primal Dual](#content) 
 1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
 
