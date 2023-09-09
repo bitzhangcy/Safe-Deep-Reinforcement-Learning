@@ -343,7 +343,7 @@ Contributed by Chunyang Zhang.
 
    *Hanna Krasowski, Jakob Thumm, Marlon Müller, Lukas Schäfer, Xiao Wang, and Matthias Althoff.*
 
-1. **Shielded reinforcement learning for hybrid systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14424)
+1. **Shielded reinforcement learning for hybrid systems.** CoRL, 2023. [paper](https://arxiv.org/abs/2308.14424)
 
    *Asger Horn Brorholt, Peter Gjøl Jensen, Kim Guldstrand Larsen, Florian Lorber, and Christian Schilling.*
 
@@ -371,6 +371,10 @@ Contributed by Chunyang Zhang.
 1. **Last-iterate convergent policy gradient primal-dual methods for constrained MDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.11700)
 
    *Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, and Alejandro Ribeiro.*
+
+1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
+
+   *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime Fernandez Fisac.*
 
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
