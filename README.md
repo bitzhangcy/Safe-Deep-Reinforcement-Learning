@@ -376,6 +376,10 @@ Contributed by Chunyang Zhang.
 
    *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime Fernandez Fisac.*
 
+1. **Safe reinforcement learning with dual robustness.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06835)
+
+   *Zeyang Li, Chuxiong Hu, Yunan Wang, Yujie Yang, and Shengbo Eben Li.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
