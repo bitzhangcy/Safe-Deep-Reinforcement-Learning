@@ -94,6 +94,10 @@ Contributed by Chunyang Zhang.
 
    *Kiran, B Ravi and Sobh, Ibrahim and Talpaert, Victor and Mannion, Patrick and Sallab, Ahmad A. Al and Yogamani, Senthil, and Pérez, Patrick.* 
 
+1. **State-wise safe reinforcement learning: A survey.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.03122)
+
+   *Weiye Zhao, Tairan He, Rui Chen, Tianhao Wei, and Changliu Liu.* 
+
 
 ## [Methodology](#content)
 ### [Model Based](#content) 
@@ -141,6 +145,10 @@ Contributed by Chunyang Zhang.
 1. **Provably efficient model-free constrained RL with linear function approximation.** NIPS, 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/56b8f22d895c45f60eaac9580152afd9-Abstract-Conference.html)
 
    *Arnob Ghosh, Xingyu Zhou, and Ness Shroff.* 
+
+1. **Provably efficient model-free algorithms for non-stationary CMDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.05733)
+
+   *Honghao Wei, Arnob Ghosh, Ness Shroff, Lei Ying, and Xingyu Zhouf.* 
 
 ### [Lyapunov Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
@@ -380,6 +388,10 @@ Contributed by Chunyang Zhang.
 
    *Zeyang Li, Chuxiong Hu, Yunan Wang, Yujie Yang, and Shengbo Eben Li.*
 
+1. **Achieving zero constraint violation for constrained reinforcement learning via conservative natural policy gradient primal-dual algorithm.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20281)
+
+   *Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, and Vaneet Aggarwal.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
@@ -480,10 +492,20 @@ Contributed by Chunyang Zhang.
 
    *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
 
-### [Variational Optimization](#content)
+### [Variation Optimization](#content)
 1. **Safe reinforcement learning as Wasserstein variational inference: Formal methods for interpretability.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07084)
 
    *Yanran Wang and David Boyle.* 
+
+### [Generative Model](#content)
+1. **Policy learning for robust markov decision process with a mismatched generative model.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20705)
+
+   *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and  Jun Zhu.* 
+
+### [Cost Function](#content)
+1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
+
+   *Tairan He, Weiye Zhao, and Changliu Liu.* 
 
 
 ## [Application](#content) 
