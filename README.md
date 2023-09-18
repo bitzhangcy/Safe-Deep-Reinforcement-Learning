@@ -290,6 +290,11 @@ Contributed by Chunyang Zhang.
 
    *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
 
+### [Adversarial Training](#content)
+1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
+
+   *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime F. Fisac.* 
+
 
 ## [Mechanism](#content)
 ### [Analysis](#content) 
@@ -506,6 +511,11 @@ Contributed by Chunyang Zhang.
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
 
    *Tairan He, Weiye Zhao, and Changliu Liu.* 
+
+### [Multi Task](#content)
+1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
+
+   *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
 
 
 ## [Application](#content) 
