@@ -517,6 +517,11 @@ Contributed by Chunyang Zhang.
 
    *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
 
+### [Knowledge Distillation](#content)
+1. **Guided online distillation: Promoting safe reinforcement learning by offline demonstration.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.09408)
+
+   *Jinning Li, Xinyi Liu, Banghua Zhu, Jiantao Jiao, Masayoshi Tomizuka, Chen Tang, and Wei Zhan.* 
+
 
 ## [Application](#content) 
 ### [Three Dimension](#content) 
