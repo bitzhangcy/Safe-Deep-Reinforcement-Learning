@@ -13,20 +13,24 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#model-free">2.2 Model Free</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#lyapunov-function">2.3 Lyapunov Function</a></td>
-    <td>&ensp;<a href="#actor-critic">2.4 Actor Critic</a></td>
+    <td>&ensp;<a href="#policy-optimization">2.3 Policy Optimization</a></td>
+    <td>&ensp;<a href="#bandit">2.4 Bandit</a></td>
+</tr>  
+<tr>
+    <td>&ensp;<a href="#lyapunov-function">2.5 Lyapunov Function</a></td>
+    <td>&ensp;<a href="#actor-critic">2.6 Actor Critic</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#latent-representation">2.5 Latent Representation</a></td>
-    <td>&ensp;<a href="#policy-optimization">2.6 Policy Optimization</a></td>
+    <td>&ensp;<a href="#evaluation">2.7 Evaluation</a></td>
+    <td>&ensp;<a href="#dynamics-modeling">2.8 Dynamics Modeling</a></td>
 </tr>
-<tr>
-    <td>&ensp;<a href="#inverse-rl">2.7 Inverse RL</a></td>
-    <td>&ensp;<a href="#modeling">2.8 Modeling</a></td>
-</tr>Evaluation
 <tr>
     <td>&ensp;<a href="#offline-learning">2.9 Offline Learning</a></td>
-    <td>&ensp;<a href="#evaluation">2.10 Evaluation</a></td>
+    <td>&ensp;<a href="#adversarial-reinforcement-learning">2.10 Adversarial Reinforcement Learning</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#inverse-reinforcement-learning">2.11 Inverse Reinforcement Learning</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -35,42 +39,56 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#theory">3.3 Theory</a></td>
-    <td>&ensp;<a href="#primal-dual">3.4 Primal Dual</a></td>
+    <td>&ensp;<a href="#reward">3.4 Reward</a></td>
+</tr>
+<tr> 
+    <td>&ensp;<a href="#cost-function">3.5 Cost Function</a></td>
+    <td>&ensp;<a href="#primal-dual">3.6 Primal Dual</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#deployment">3.5 Deployment</a></td>
-    <td>&ensp;<a href="#continual-learning">3.6 Continual Learning</a></td>
+    <td>&ensp;<a href="#deployment">3.7 Deployment</a></td>
+    <td>&ensp;<a href="#domain-adaptation">3.8 Domain Adaptation</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#reward">3.7 Reward</a></td>
-    <td>&ensp;<a href="#lagrangian-method">3.8 Lagrangian Method</a></td>
+    <td>&ensp;<a href="#diffusion-model">3.9 Diffusion Model</a></td>
+    <td>&ensp;<a href="#transformer">3.10 Transformer</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#out-of-distribution">3.9 Out of Distribution</a></td>
-    <td>&ensp;<a href="#meta-learning">3.10 Meta Learning</a></td>
+    <td>&ensp;<a href="#generative-model">3.11 Generative Model</a></td>
+    <td>&ensp;<a href="#lagrangian">3.12 Lagrangian</a></td>
+</tr> 
+<tr> 
+    <td>&ensp;<a href="#knowledge-distillation">3.13 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#causal-reasoning">3.14 Causal Reasoning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#transformer">3.11 Transformer</a></td>
-    <td>&ensp;<a href="#safe-set">3.12 Safe Set</a></td>
+    <td>&ensp;<a href="#out-of-distribution">3.15 Out of Distribution</a></td>
+    <td>&ensp;<a href="#continual-learning">3.16 Continual Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#multi-agent">3.13 Multi Agent</a></td>
-    <td>&ensp;<a href="#knowledge-distillation">3.14 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#safe-set">3.17 Safe Set</a></td>
+    <td>&ensp;<a href="#latent-space">3.18 Latent Space</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#causal-reasoning">3.15 Causal Reasoning</a></td>
-    <td>&ensp;<a href="#diffusion-model">3.16 Diffusion Model</a></td>
+    <td>&ensp;<a href="#multi-task">3.19 Multi Task</a></td>
+    <td>&ensp;<a href="#multi-agent">3.20 Multi Agent</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#knowledge-distillation">3.21 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#three-dimension">4.1 Three Dimension<//a></td>
-    <td>&ensp;<a href="#cyber-attack">4.2 Cyber Attack</a></td>
+    <td>&ensp;<a href="#autonomous-driving">4.1 Autonomous Driving<//a></td>
+    <td>&ensp;<a href="#three-dimension">4.2 Three Dimension</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#autonomous-vehicles">4.3 Autonomous Vehicles</a></td>
-    <td>&ensp;<a href="#bandits">4.4 Bandits</a></td>
+    <td>&ensp;<a href="#cyber-attack">4.3 Cyber Attack</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
+
 
 
 ## [Survey](#content)
@@ -150,37 +168,6 @@ Contributed by Chunyang Zhang.
 
    *Honghao Wei, Arnob Ghosh, Ness Shroff, Lei Ying, and Xingyu Zhouf.* 
 
-### [Lyapunov Function](#content)
-1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
-
-   *Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duez-Guzmn, and Mohamamd Ghavamzadeh.* 
-
-1. **Lyapunov design for safe reinforcement learning.** JMLR, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
-
-   *Theodore J. Perkins and Andrew G. Barto.* 
-
-1. **Value functions are control barrier functions: Verification of safe policies using control theory.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04026)
-
-   *Daniel C.H. Tan, Fernando Acero, Robert McCarthy, Dimitrios Kanoulas, and Zhibin Li.* 
-
-1. **A barrier-Lyapunov actor-critic reinforcement learning approach for safe and stable control.** CDC, 2023. [paper](https://arxiv.org/abs/2304.04066)
-
-   *Liqun Zhao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
-
-1. **Enforcing hard constraints with soft barriers: Safe reinforcement learning in unknown stochastic environments.** ICML, 2023. [paper](https://openreview.net/forum?id=NbC9a9zS5K)
-
-   *Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, and Qi Zhu.* 
-
-### [Actor Critic](#content) 
-1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
-
-   *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
-
-### [Latent Representation](#content) 
-1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
-
-   *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
-
 ### [Policy Optimization](#content) 
 1. **Constrained policy optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
 
@@ -250,7 +237,62 @@ Contributed by Chunyang Zhang.
 
    *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Yihang Yao, Hanjiang Hu, and Ding Zhao.*
 
-### [Inverse RL](#content)
+### [Bandit](#content) 
+1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
+
+   *Yunlong Hou, Vincent Tan, and Zixin Zhong.*
+
+### [Lyapunov Function](#content)
+1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
+
+   *Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duez-Guzmn, and Mohamamd Ghavamzadeh.* 
+
+1. **Lyapunov design for safe reinforcement learning.** JMLR, 2002. [paper](https://www.jmlr.org/papers/v3/perkins02a.html)
+
+   *Theodore J. Perkins and Andrew G. Barto.* 
+
+1. **Value functions are control barrier functions: Verification of safe policies using control theory.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04026)
+
+   *Daniel C.H. Tan, Fernando Acero, Robert McCarthy, Dimitrios Kanoulas, and Zhibin Li.* 
+
+1. **A barrier-Lyapunov actor-critic reinforcement learning approach for safe and stable control.** CDC, 2023. [paper](https://arxiv.org/abs/2304.04066)
+
+   *Liqun Zhao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
+
+1. **Enforcing hard constraints with soft barriers: Safe reinforcement learning in unknown stochastic environments.** ICML, 2023. [paper](https://openreview.net/forum?id=NbC9a9zS5K)
+
+   *Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, and Qi Zhu.* 
+
+### [Actor Critic](#content) 
+1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
+
+   *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+
+### [Evaluation](#content)
+1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
+
+   *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
+
+### [Dynamics Modeling](#content)
+1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
+
+   *Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, and Dacheng Tao.* 
+
+### [Offline Learning](#content)
+1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
+
+   *Hager Radi, Josiah P. Hanna, Peter Stone, and Matthew E. Taylor.* 
+
+1. **Safe offline reinforcement learning with real-time budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=jrYVLd3wqk)
+
+   *Qian Lin, Bo Tang, Zifan Wu, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
+
+### [Adversarial Reinforcement Learning](#content)
+1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
+
+   *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime F. Fisac.* 
+
+### [Inverse Reinforcement Learning](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
    *Shehryar Malik, Usman Anwar, Alireza Aghasi, and Ali Ahmed.* 
@@ -270,30 +312,6 @@ Contributed by Chunyang Zhang.
 1. **FP-IRL: Fokker-Planck-based inverse reinforcement learning -- A physics-constrained approach to Markov decision processes.** ICML, 2023. [paper](https://arxiv.org/abs/2306.10407)
 
    *Chengyang Huang, Siddhartha Srivastava, Xun Huan, and Krishna Garikipati.* 
-
-### [Modeling](#content)
-1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
-
-   *Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, and Dacheng Tao.* 
-
-### [Offline Learning](#content)
-1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
-
-   *Hager Radi, Josiah P. Hanna, Peter Stone, and Matthew E. Taylor.* 
-
-1. **Safe offline reinforcement learning with real-time budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=jrYVLd3wqk)
-
-   *Qian Lin, Bo Tang, Zifan Wu, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
-
-### [Evaluation](#content)
-1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
-
-   *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
-
-### [Adversarial Training](#content)
-1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
-
-   *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime F. Fisac.* 
 
 
 ## [Mechanism](#content)
@@ -360,6 +378,28 @@ Contributed by Chunyang Zhang.
 
    *Asger Horn Brorholt, Peter Gjøl Jensen, Kim Guldstrand Larsen, Florian Lorber, and Christian Schilling.*
 
+### [Reward](#content) 
+1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
+
+   *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
+
+1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
+
+   *Tairan He, Weiye Zhao, and Changliu Liu.* 
+
+1. **Anchor-changing regularized natural policy gradient for multi-objective reinforcement learning.** NIPS, 2022. [paper](https://arxiv.org/abs/2206.05357v2)
+
+   *Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, and Chao Tian.* 
+
+1. **ROSARL: Reward-only safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00035)
+
+   *Geraud Nangue Tasse, Tamlin Love, Mark Nemecek, Steven James, and Benjamin Rosman.* 
+
+### [Cost Function](#content)
+1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
+
+   *Tairan He, Weiye Zhao, and Changliu Liu.* 
+
 ### [Primal Dual](#content) 
 1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
 
@@ -405,30 +445,31 @@ Contributed by Chunyang Zhang.
 1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
 
    *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
+### [Domain Adaptation](#content)
+1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
 
-### [Continual Learning](#content) 
-1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
+   *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
 
-   *David Rolnick, Arun Ahuja, Jonathan Schwarz, Timothy Lillicrap, and Gregory Wayne.* 
+### [Diffusion Model](#content)
+1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
-### [Reward](#content) 
-1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
+   *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
 
-   *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
+### [Transformer](#content)
+1. **Constrained decision Transformer for offline safe reinforcement learning.** ICML, 2023. [paper](https://openreview.net/forum?id=9VKCBHESq0)
 
-1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
+   *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
 
-   *Tairan He, Weiye Zhao, and Changliu Liu.* 
+1. **Transdreamer: Reinforcement learning with Transformer world models.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.09481)
 
-1. **Anchor-changing regularized natural policy gradient for multi-objective reinforcement learning.** NIPS, 2022. [paper](https://arxiv.org/abs/2206.05357v2)
+   *Chang Chen, Yi-Fu Wu, Jaesik Yoon, and Sungjin Ahn.* 
 
-   *Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, and Chao Tian.* 
+### [Generative Model](#content)
+1. **Policy learning for robust markov decision process with a mismatched generative model.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20705)
 
-1. **ROSARL: Reward-only safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00035)
+   *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and  Jun Zhu.* 
 
-   *Geraud Nangue Tasse, Tamlin Love, Mark Nemecek, Steven James, and Benjamin Rosman.* 
-
-### [Lagrangian Method](#content) 
+### [Lagrangian](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
 
    *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
@@ -441,24 +482,33 @@ Contributed by Chunyang Zhang.
 
    *David M. Bossens.* 
 
+1. **Safe reinforcement learning as Wasserstein variational inference: Formal methods for interpretability.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07084)
+
+   *Yanran Wang and David Boyle.* 
+
+### [Knowledge Distillation](#content)
+1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
+
+   *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
+
+### [Causal Reasoning](#content)
+1. **Causal temporal reasoning for Markov decision processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08712v2)
+
+   *Milad Kazemi and Nicola Paoletti.* 
+
 ### [Out of Distribution](#content) 
 1. **Can agents run relay race with dtrangers? Generalization of RL to out-of-distribution trajectories.** ICRL, 2023. [paper](https://openreview.net/forum?id=ipflrGaf7ry)
 
    *Licheng Lan, Huan Zhang, andCho-Jui Hsieh.* 
 
-### [Meta Learning](#content)
-1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
+### [Continual Learning](#content) 
+1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
 
-   *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
+   *David Rolnick, Arun Ahuja, Jonathan Schwarz, Timothy Lillicrap, and Gregory Wayne.* 
 
-### [Transformer](#content)
-1. **Constrained decision Transformer for offline safe reinforcement learning.** ICML, 2023. [paper](https://openreview.net/forum?id=9VKCBHESq0)
+1. **Safe model-based multi-agent mean-field reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.17052)
 
-   *Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, and Ding Zhao.* 
-
-1. **Transdreamer: Reinforcement learning with Transformer world models.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.09481)
-
-   *Chang Chen, Yi-Fu Wu, Jaesik Yoon, and Sungjin Ahn.* 
+   *Matej Jusup, Barna Pásztor, Tadeusz Janik, Kenan Zhang, Francesco Corman, Andreas Krause, and Ilija Bogunovic.* 
 
 ### [Safe Set](#content) 
 1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
@@ -473,73 +523,38 @@ Contributed by Chunyang Zhang.
 
    *Ming Shi, Yingbin Liang, and Ness Shroff.*
 
-### [Multi Agent](#content)
-1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
+### [Latent Space](#content) 
+1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
-   *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.* 
-
-1. **Safe model-based multi-agent mean-field reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.17052)
-
-   *Matej Jusup, Barna Pásztor, Tadeusz Janik, Kenan Zhang, Francesco Corman, Andreas Krause, and Ilija Bogunovic.* 
-
-### [Knowledge Distillation](#content)
-1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
-
-   *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
-
-### [Causal Reasoning](#content)
-1. **Causal temporal reasoning for Markov decision processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08712v2)
-
-   *Milad Kazemi and Nicola Paoletti.* 
-
-### [Diffusion Model](#content)
-1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
-
-   *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
-
-### [Variation Optimization](#content)
-1. **Safe reinforcement learning as Wasserstein variational inference: Formal methods for interpretability.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07084)
-
-   *Yanran Wang and David Boyle.* 
-
-### [Generative Model](#content)
-1. **Policy learning for robust markov decision process with a mismatched generative model.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20705)
-
-   *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and  Jun Zhu.* 
-
-### [Cost Function](#content)
-1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
-
-   *Tairan He, Weiye Zhao, and Changliu Liu.* 
+   *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
 ### [Multi Task](#content)
 1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
 
    *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
 
-### [Knowledge Distillation](#content)
-1. **Guided online distillation: Promoting safe reinforcement learning by offline demonstration.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.09408)
+### [Multi Agent](#content)
+1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
 
-   *Jinning Li, Xinyi Liu, Banghua Zhu, Jiantao Jiao, Masayoshi Tomizuka, Chen Tang, and Wei Zhan.* 
+   *Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, and Mihailo R. Jovanovic.*
+
+1. **Learning adaptive safety for multi-agent systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10657)
+
+   *Luigi Berducci, Shuo Yang, Rahul Mangharam, and Radu Grosu.*
 
 
-## [Application](#content) 
-### [Three Dimension](#content) 
-1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
-
-   *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, and Kai Xu.*
-
-### [Cyber Attack](#content) 
-1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
-
-   *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
-
-### [Autonomous Vehicles](#content) 
+## [Application](#content)
+### [Autonomous Driving](#content) 
 1. **Dense reinforcement learning for safety validation of autonomous vehicles.** Nature, 2023. [paper](https://www.nature.com/articles/s41586-023-05732-2)
 
    *Shuo Feng, Haowei Sun, Xintao Yan, Haojie Zhu, Zhengxia Zou, Shengyin Shen, and Henry X. Liu.*
 
-### [Bandits](#content) 
-1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
+### [Three Dimension](#content)
+1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
 
-   *Yunlong Hou, Vincent Tan, and Zixin Zhong.*
+   *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, and Kai Xu.*
+
+### [Cyber Attack](#content)
+1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
+
+   *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
