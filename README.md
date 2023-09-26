@@ -63,18 +63,19 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#out-of-distribution">3.15 Out of Distribution</a></td>
-    <td>&ensp;<a href="#continual-learning">3.16 Continual Learning</a></td>
+    <td>&ensp;<a href="#curriculum-learning">3.16 Curriculum Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#safe-set">3.17 Safe Set</a></td>
-    <td>&ensp;<a href="#latent-space">3.18 Latent Space</a></td>
+    <td>&ensp;<a href="#continual-learning">3.17 Continual Learning</a></td>
+    <td>&ensp;<a href="#safe-set">3.18 Safe Set</a></td>
+    <
 </tr>
 <tr>
-    <td>&ensp;<a href="#multi-task">3.19 Multi Task</a></td>
-    <td>&ensp;<a href="#multi-agent">3.20 Multi Agent</a></td>
+    td>&ensp;<a href="#latent-space">3.19 Latent Space</a></td>
+    <td>&ensp;<a href="#multi-task">3.20 Multi Task</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#knowledge-distillation">3.21 Knowledge Distillation</a></td>
+	<td>&ensp;<a href="#multi-agent">3.21 Multi Agent</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
@@ -87,6 +88,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
+
 
 
 
@@ -501,6 +504,11 @@ Contributed by Chunyang Zhang.
 
    *Licheng Lan, Huan Zhang, andCho-Jui Hsieh.* 
 
+### [Curriculum Learning](#content) 
+1. **Safe reinforcement learning via curriculum induction.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/8df6a65941e4c9da40a4fb899de65c55-Abstract.html)
+
+   *Matteo Turchetta, Andrey Kolobov, Shital Shah, Andreas Krause, and Alekh Agarwal.* 
+
 ### [Continual Learning](#content) 
 1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
 
@@ -522,6 +530,10 @@ Contributed by Chunyang Zhang.
 1. **A near-optimal algorithm for safe reinforcement learning under instantaneous hard constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=3HMO9iSBdy)
 
    *Ming Shi, Yingbin Liang, and Ness Shroff.*
+
+1. **Iterative reachability estimation for safe reinforcement learning.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.13528)
+
+   *Milan Ganai, Zheng Gong, Chenning Yu, Sylvia Herbert, and Sicun Gao.*
 
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
