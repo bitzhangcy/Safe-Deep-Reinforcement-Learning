@@ -85,9 +85,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#cyber-attack">4.3 Cyber Attack</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
 </tr>
 </table>
+
 
 
 
@@ -281,6 +282,10 @@ Contributed by Chunyang Zhang.
 
    *Qin Zhang, Linrui Zhang, Haoran Xu, Li Shen, Bowen Wang, Yongzhe Chang, Xueqian Wang, Bo Yuan, and Dacheng Tao.* 
 
+1. **Model-free, regret-optimal best policy identification in online CMDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15395)
+
+   *Zihan Zhou, Honghao Wei, and Lei Ying.* 
+
 ### [Offline Learning](#content)
 1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
 
@@ -339,9 +344,9 @@ Contributed by Chunyang Zhang.
 
    *Aivar Sootla, Alexander I Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David H Mguni, Jun Wang, and Haitham Ammar.*
 
-1. **Continual learning as computationally constrained reinforcement learning..** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04345)
+1. **Provably efficient exploration in constrained reinforcement learning: Posterior sampling is all you need.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15737)
 
-   *Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, Yueyang Liu, and Benjamin Van Roy.*
+   *Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, and Maurits Kaptein.*
 
 ### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
@@ -518,6 +523,10 @@ Contributed by Chunyang Zhang.
 
    *Matej Jusup, Barna Pásztor, Tadeusz Janik, Kenan Zhang, Francesco Corman, Andreas Krause, and Ilija Bogunovic.* 
 
+1. **Continual learning as computationally constrained reinforcement learning..** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04345)
+
+   *Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, Yueyang Liu, and Benjamin Van Roy.*
+
 ### [Safe Set](#content) 
 1. **Safe reinforcement learning in constrained Markov decision processes.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/wachi20a.html)
 
@@ -570,3 +579,8 @@ Contributed by Chunyang Zhang.
 1. **Spatiotemporally constrained action space attacks on deep reinforcement learning agents.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5887)
 
    *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
+
+### [Robotics](#content)
+1. **Evaluation of constrained reinforcement learning algorithms for legged locomotion.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15430)
+
+   *Joonho Lee, Lukas Schroth, Victor Klemm, Marko Bjelonic, Alexander Reske, and Marco Hutter.*
