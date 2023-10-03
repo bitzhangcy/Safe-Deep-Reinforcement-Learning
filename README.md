@@ -21,16 +21,16 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#actor-critic">2.6 Actor Critic</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#evaluation">2.7 Evaluation</a></td>
+    <td>&ensp;<a href="#large-model">2.7 Large Model</a></td>
     <td>&ensp;<a href="#dynamics-modeling">2.8 Dynamics Modeling</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#offline-learning">2.9 Offline Learning</a></td>
-    <td>&ensp;<a href="#adversarial-reinforcement-learning">2.10 Adversarial Reinforcement Learning</a></td>
+    <td>&ensp;<a href="#evaluation">2.9 Evaluation</a></td>
+    <td>&ensp;<a href="#offline-learning">2.10 Offline Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#inverse-reinforcement-learning">2.11 Inverse Reinforcement Learning</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#adversarial-reinforcement-learning">2.11 Adversarial Reinforcement Learning</a></td>
+    <td>&ensp;<a href="#inverse-reinforcement-learning">2.12 Inverse Reinforcement Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -68,10 +68,9 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#continual-learning">3.17 Continual Learning</a></td>
     <td>&ensp;<a href="#safe-set">3.18 Safe Set</a></td>
-    <
 </tr>
 <tr>
-    td>&ensp;<a href="#latent-space">3.19 Latent Space</a></td>
+    <td>&ensp;<a href="#latent-space">3.19 Latent Space</a></td>
     <td>&ensp;<a href="#multi-task">3.20 Multi Task</a></td>
 </tr>
 <tr>
@@ -88,6 +87,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
 </tr>
 </table>
+
 
 
 
@@ -272,10 +272,10 @@ Contributed by Chunyang Zhang.
 
    *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
 
-### [Evaluation](#content)
-1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
+### [Large Model](#content)
+1. **Parameter-efficient tuning helps language model alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00819)
 
-   *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
+   *Tianci Xue, Ziqi Wang, and Heng Ji.* 
 
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
@@ -285,6 +285,11 @@ Contributed by Chunyang Zhang.
 1. **Model-free, regret-optimal best policy identification in online CMDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15395)
 
    *Zihan Zhou, Honghao Wei, and Lei Ying.* 
+
+### [Evaluation](#content)
+1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
+
+   *Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang, and Dacheng Tao.* 
 
 ### [Offline Learning](#content)
 1. **Safe evaluation for offline learning: Are we ready to deploy?** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08302)
