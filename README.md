@@ -549,6 +549,10 @@ Contributed by Chunyang Zhang.
 
    *Milan Ganai, Zheng Gong, Chenning Yu, Sylvia Herbert, and Sicun Gao.*
 
+1. **Risk-sensitive inhibitory control for safe reinforcement learning.** ACC, 2023. [paper](https://arxiv.org/abs/2310.01538)
+
+   *Armin Lederer, Erfaun Noorani, John S. Baras, and Sandra Hirche.*
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
