@@ -450,6 +450,10 @@ Contributed by Chunyang Zhang.
 
    *Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, and Vaneet Aggarwal.*
 
+1. **Distributionally safe reinforcement learning under model uncertainty: A single-level approach by differentiable convex programming.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02459)
+
+   *Alaa Eddine Chriat and Chuangchuang Sun.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
