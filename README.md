@@ -241,6 +241,10 @@ Contributed by Chunyang Zhang.
 
    *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Yihang Yao, Hanjiang Hu, and Ding Zhao.*
 
+1. **Constraint-conditioned policy optimization for versatile safe reinforcement learning.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.03718)
+
+   *Yihang Yao, Zuxin Liu, Zhepeng Cen, Jiacheng Zhu, Wenhao Yu, Tingnan Zhang, and Ding Zhao.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -352,6 +356,10 @@ Contributed by Chunyang Zhang.
 1. **Provably efficient exploration in constrained reinforcement learning: Posterior sampling is all you need.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15737)
 
    *Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, and Maurits Kaptein.*
+
+1. **Safe exploration in reinforcement learning: A generalized formulation and algorithms.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.03225)
+
+   *Akifumi Wachi, Wataru Hashimoto, Xun Shen, and Kazumune Hashimoto.*
 
 ### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
@@ -556,6 +564,10 @@ Contributed by Chunyang Zhang.
 1. **Risk-sensitive inhibitory control for safe reinforcement learning.** ACC, 2023. [paper](https://arxiv.org/abs/2310.01538)
 
    *Armin Lederer, Erfaun Noorani, John S. Baras, and Sandra Hirche.*
+
+1. **Progressive adaptive chance-constrained safeguards for reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.03379)
+
+   *Zhaorun Chen, Binhao Chen, Tairan He, Liang Gong, and Chengliang Liu.* 
 
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
