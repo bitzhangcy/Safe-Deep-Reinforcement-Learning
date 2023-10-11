@@ -281,6 +281,10 @@ Contributed by Chunyang Zhang.
 
    *Tianci Xue, Ziqi Wang, and Heng Ji.* 
 
+1. **Confronting reward model overoptimization with constrained RLHF.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04373)
+
+   *Ted Moskovitz, Aaditya K. Singh, DJ Strouse, Tuomas Sandholm, Ruslan Salakhutdinov, Anca D. Dragan, and Stephen McAleer.* 
+
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
 
@@ -479,6 +483,10 @@ Contributed by Chunyang Zhang.
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
    *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
+
+1. **DiffCPS: Diffusion model based constrained policy search for offline reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05333)
+
+   *Longxiang He, Linrui Zhang, Junbo Tan, and Xueqian Wang.* 
 
 ### [Transformer](#content)
 1. **Constrained decision Transformer for offline safe reinforcement learning.** ICML, 2023. [paper](https://openreview.net/forum?id=9VKCBHESq0)
