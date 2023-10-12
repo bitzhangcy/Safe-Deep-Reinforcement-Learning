@@ -245,6 +245,10 @@ Contributed by Chunyang Zhang.
 
    *Yihang Yao, Zuxin Liu, Zhepeng Cen, Jiacheng Zhu, Wenhao Yu, Tingnan Zhang, and Ding Zhao.*
 
+1. **Reinforcement learning in a safety-embedded MDP with trajectory optimization.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.06903)
+
+   *Fan Yang, Wenxuan Zhou, Zuxin Liu, Ding Zhao, and David Held.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -312,6 +316,10 @@ Contributed by Chunyang Zhang.
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
 
    *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime F. Fisac.* 
+
+1. **Robust safe reinforcement learning under adversarial disturbances.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.07207)
+
+   *Zeyang Li, Chuxiong Hu, Shengbo Eben Li, Jia Cheng, and Yunan Wang.* 
 
 ### [Inverse Reinforcement Learning](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
