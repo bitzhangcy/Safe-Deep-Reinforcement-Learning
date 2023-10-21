@@ -289,6 +289,10 @@ Contributed by Chunyang Zhang.
 
    *Ted Moskovitz, Aaditya K. Singh, DJ Strouse, Tuomas Sandholm, Ruslan Salakhutdinov, Anca D. Dragan, and Stephen McAleer.* 
 
+1. **Safe RLHF: Safe reinforcement learning from human feedback.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12773)
+
+   *Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, and Yaodong Yang.* 
+
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
 
@@ -385,6 +389,10 @@ Contributed by Chunyang Zhang.
 1. **InterCode: Standardizing and benchmarking interactive coding with execution feedback.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.14898)
 
    *John Yang, Akshara Prabhakar, Karthik Narasimhan, and Shunyu Yao.*
+
+1. **Safety-Gymnasium: A unified safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12567)
+
+   *Jiaming Ji, Borong Zhang, Jiayi Zhou, Xuehai Pan, Weidong Huang, Ruiyang Sun, Yiran Geng, Yifan Zhong, Juntao Dai, and Yaodong Yang.*
 
 ### [Theory](#content) 
 1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
