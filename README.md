@@ -280,6 +280,10 @@ Contributed by Chunyang Zhang.
 
    *Qisong Yang, Thiago D. Simao, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
 
+1. **Finite time analysis of constrained actor critic and constrained natural actor critic algorithms.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.16363)
+
+   *Prashansa Panda and Shalabh Bhatnagar.* 
+
 ### [Large Model](#content)
 1. **Parameter-efficient tuning helps language model alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00819)
 
