@@ -284,6 +284,10 @@ Contributed by Chunyang Zhang.
 
    *Prashansa Panda and Shalabh Bhatnagar.* 
 
+1. **DSAC-C: Constrained maximum entropy for robust discrete soft-actor critic.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17173)
+
+   *Dexter Neo and Tsuhan Chen.* 
+
 ### [Large Model](#content)
 1. **Parameter-efficient tuning helps language model alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00819)
 
