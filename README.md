@@ -249,6 +249,10 @@ Contributed by Chunyang Zhang.
 
    *Fan Yang, Wenxuan Zhou, Zuxin Liu, Ding Zhao, and David Held.*
 
+1. **Recursively-constrained partially observable Markov decision processes.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.09688)
+
+   *Qi Heng Ho, Tyler Becker, Ben Kraske, Zakariya Laouar, Martin Feather, Federico Rossi, Morteza Lahijanian, and Zachary N. Sunberg.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
