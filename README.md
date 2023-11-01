@@ -389,6 +389,10 @@ Contributed by Chunyang Zhang.
 
    *Akifumi Wachi, Wataru Hashimoto, Xun Shen, and Kazumune Hashimoto.*
 
+1. **Sample-efficient and safe deep reinforcement learning via reset deep ensemble agents.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.20287)
+
+   *Woojun Kim, Yongjae Shin, Jongeui Park, and Youngchul Sung.*
+
 ### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
