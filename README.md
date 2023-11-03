@@ -292,6 +292,10 @@ Contributed by Chunyang Zhang.
 
    *Dexter Neo and Tsuhan Chen.* 
 
+1. **SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00880)
+
+   *Jaafar Mhamed and Shangding Gu.* 
+
 ### [Large Model](#content)
 1. **Parameter-efficient tuning helps language model alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00819)
 
