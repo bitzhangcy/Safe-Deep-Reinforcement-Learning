@@ -170,7 +170,11 @@ Contributed by Chunyang Zhang.
 
 1. **Provably efficient model-free algorithms for non-stationary CMDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.05733)
 
-   *Honghao Wei, Arnob Ghosh, Ness Shroff, Lei Ying, and Xingyu Zhouf.* 
+   *Honghao Wei, Arnob Ghosh, Ness Shroff, Lei Ying, and Xingyu Zhou.* 
+
+1. **Anytime-competitive reinforcement learning with policy prior.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.01568)
+
+   *Jianyi Yang, Pengfei Li, Tongxin Li, Adam Wierman, and Shaolei Ren.* 
 
 ### [Policy Optimization](#content) 
 1. **Constrained policy optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
@@ -244,6 +248,10 @@ Contributed by Chunyang Zhang.
 1. **Constraint-conditioned policy optimization for versatile safe reinforcement learning.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.03718)
 
    *Yihang Yao, Zuxin Liu, Zhepeng Cen, Jiacheng Zhu, Wenhao Yu, Tingnan Zhang, and Ding Zhao.*
+
+1. **Quantile constrained reinforcement learning: A reinforcement learning framework constraining outage probability.** NIPS, 2022 [paper](https://openreview.net/forum?id=MOGt8ZizQJL)
+
+   *Whiyoung Jung, Myungsik Cho, Jongeui Park, and Youngchul Sung.*
 
 1. **Reinforcement learning in a safety-embedded MDP with trajectory optimization.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.06903)
 
@@ -440,10 +448,6 @@ Contributed by Chunyang Zhang.
    *Asger Horn Brorholt, Peter Gjøl Jensen, Kim Guldstrand Larsen, Florian Lorber, and Christian Schilling.*
 
 ### [Reward](#content) 
-1. **Redeeming intrinsic rewards via constrained optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07627)
-
-   *Eric Chen, Zhang-Wei Hong, Joni Pajarinen, and Pulkit Agrawal.* 
-
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
    *Tairan He, Weiye Zhao, and Changliu Liu.* 
@@ -515,6 +519,10 @@ Contributed by Chunyang Zhang.
 
    *Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, and Ming Jin.* 
 
+1. **Reinforcement learning by guided safe exploration.** ECAI, 2023. [paper](https://arxiv.org/abs/2307.14316)
+
+   *Qisong Yang, Thiago D. Simão, Nils Jansen, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
+
 ### [Diffusion Model](#content)
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
@@ -543,7 +551,7 @@ Contributed by Chunyang Zhang.
 
    *Adam Stooke, Joshua Achiam, and Pieter Abbeel.* 
 
-1. **Safe DreamerV3: Safe reinforcement learning with world mdels.** arXiv 2023. [paper](https://arxiv.org/abs/2307.07176)
+1. **Safe Dreamer: Safe reinforcement learning with world mdels.** arXiv 2023. [paper](https://arxiv.org/abs/2307.07176)
 
    *Weidong Huang, Jiaming Ji, Borong Zhang, Chunhe Xia, and Yaodong Yang.* 
 
@@ -612,6 +620,10 @@ Contributed by Chunyang Zhang.
 1. **Progressive adaptive chance-constrained safeguards for reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.03379)
 
    *Zhaorun Chen, Binhao Chen, Tairan He, Liang Gong, and Chengliang Liu.* 
+
+1. **Learn with imagination: Safe set guided state-wise constrained policy optimization.** AAAI, 2024. [paper](https://arxiv.org/abs/2308.13140)
+
+   *Weiye Zhao, Yifan Sun, Feihan Li, Rui Chen, Tianhao Wei, and Changliu Liu.* 
 
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
