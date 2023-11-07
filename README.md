@@ -287,6 +287,10 @@ Contributed by Chunyang Zhang.
 
    *Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, and Qi Zhu.* 
 
+1. **State wise safe reinforcement learning with pixel observations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02227)
+
+   *Simon Sinong Zhan, Yixuan Wang, Qingyuan Wu, Ruochen Jiao, Chao Huang, and Qi Zhu.* 
+
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
