@@ -330,6 +330,10 @@ Contributed by Chunyang Zhang.
 
    *Zihan Zhou, Honghao Wei, and Lei Ying.* 
 
+1. **Scalable and efficient continual learning from demonstration via hypernetwork-generated stable dynamics model.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03600)
+
+   *Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodríguez-Sánchez, and Justus Piater.* 
+
 ### [Evaluation](#content)
 1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
 
