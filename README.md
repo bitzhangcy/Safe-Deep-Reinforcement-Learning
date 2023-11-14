@@ -176,6 +176,10 @@ Contributed by Chunyang Zhang.
 
    *Jianyi Yang, Pengfei Li, Tongxin Li, Adam Wierman, and Shaolei Ren.* 
 
+1. **Anytime-constrained reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.05511)
+
+   *Jeremy McMahan and Xiaojin Zhu.* 
+
 ### [Policy Optimization](#content) 
 1. **Constrained policy optimization.** ICML, 2017. [paper](https://proceedings.mlr.press/v70/achiam17a)
 
