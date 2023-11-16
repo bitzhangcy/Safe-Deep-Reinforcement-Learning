@@ -308,7 +308,7 @@ Contributed by Chunyang Zhang.
 
    *Dexter Neo and Tsuhan Chen.* 
 
-1. **SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00880)
+1. **SCPO: Safe reinforcement learning with safety critic policy optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00880)
 
    *Jaafar Mhamed and Shangding Gu.* 
 
