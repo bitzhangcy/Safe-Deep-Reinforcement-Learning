@@ -677,3 +677,7 @@ Contributed by Chunyang Zhang.
 1. **Evaluation of constrained reinforcement learning algorithms for legged locomotion.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15430)
 
    *Joonho Lee, Lukas Schroth, Victor Klemm, Marko Bjelonic, Alexander Reske, and Marco Hutter.*
+
+1. **Learning safe control for multi-robot systems: Methods, verification, and open challenges.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13714)
+
+   *Kunal Garg, Songyuan Zhang, Oswin So, Charles Dawson, and Chuchu Fan.*
