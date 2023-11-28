@@ -472,6 +472,10 @@ Contributed by Chunyang Zhang.
 
    *Geraud Nangue Tasse, Tamlin Love, Mark Nemecek, Steven James, and Benjamin Rosman.* 
 
+1. **Solving richly constrained reinforcement learning through state augmentation and reward penalties.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11592)
+
+   *Hao Jiang, Tien Mai, Pradeep Varakantham, and Minh Huy Hoang.* 
+
 ### [Cost Function](#content)
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
 
@@ -681,3 +685,7 @@ Contributed by Chunyang Zhang.
 1. **Learning safe control for multi-robot systems: Methods, verification, and open challenges.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13714)
 
    *Kunal Garg, Songyuan Zhang, Oswin So, Charles Dawson, and Chuchu Fan.*
+
+1. **Constrained reinforcement learning for dexterous manipulation.** IJCAI, 2022. [paper](https://arxiv.org/abs/2301.09766)
+
+   *Abhineet Jain , Jack Kolb, and Harish Ravichandar.*
