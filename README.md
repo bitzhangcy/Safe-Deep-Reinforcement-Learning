@@ -434,6 +434,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaming Ji, Borong Zhang, Jiayi Zhou, Xuehai Pan, Weidong Huang, Ruiyang Sun, Yiran Geng, Yifan Zhong, Juntao Dai, and Yaodong Yang.*
 
+1. **Controlgym: Large-scale safety-critical control environments for benchmarking reinforcement learning algorithms.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.18736)
+
+   *Xiangyuan Zhang, Weichao Mao, Saviz Mowlavi, Mouhacine Benosman, and Tamer Başar.*
+
 ### [Theory](#content) 
 1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
 
