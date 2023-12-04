@@ -265,6 +265,10 @@ Contributed by Chunyang Zhang.
 
    *Qi Heng Ho, Tyler Becker, Ben Kraske, Zakariya Laouar, Martin Feather, Federico Rossi, Morteza Lahijanian, and Zachary N. Sunberg.*
 
+1. **TRC: Trust region conditional value at risk for safe reinforcement learning.** arXiv, 2023 [paper](https://arxiv.org/abs/2312.00344)
+
+   *Dohyeong Kim and Songhwai Oh.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -351,6 +355,10 @@ Contributed by Chunyang Zhang.
 1. **Safe offline reinforcement learning with real-time budget constraints.** ICML, 2023. [paper](https://openreview.net/forum?id=jrYVLd3wqk)
 
    *Qian Lin, Bo Tang, Zifan Wu, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
+
+1. **Efficient off-policy safe reinforcement learning using trust region conditional value at risk.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00342)
+
+   *Dohyeong Kim and Songhwai Oh.* 
 
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
@@ -462,6 +470,14 @@ Contributed by Chunyang Zhang.
 1. **Shielded reinforcement learning for hybrid systems.** CoRL, 2023. [paper](https://arxiv.org/abs/2308.14424)
 
    *Asger Horn Brorholt, Peter Gjøl Jensen, Kim Guldstrand Larsen, Florian Lorber, and Christian Schilling.*
+
+1. **Safe reinforcement learning in tensor reproducing kernel Hilbert space.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00727)
+
+   *Xiaoyuan Cheng, Boli Chen, Liz Varga, and Yukun Hu.*
+
+1. **Interior point constrained reinforcement learning with global convergence guarantees.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00561)
+
+   *Tingting Ni and Maryam Kamgarpour.*
 
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
