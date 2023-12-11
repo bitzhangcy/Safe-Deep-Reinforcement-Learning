@@ -120,6 +120,10 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Tairan He, Rui Chen, Tianhao Wei, and Changliu Liu.* 
 
+1. **Modeling risk in reinforcement learning: A literature mapping.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05231)
+
+   *Leonardo Villalobos-Arias, Derek Martin, Abhijeet Krishnan, Madeleine Gagné, Colin M. Potts, and Arnav Jhala.* 
+
 
 ## [Methodology](#content)
 ### [Model Based](#content) 
