@@ -291,9 +291,9 @@ Contributed by Chunyang Zhang.
 
    *Daniel C.H. Tan, Fernando Acero, Robert McCarthy, Dimitrios Kanoulas, and Zhibin Li.* 
 
-1. **A barrier-Lyapunov actor-critic reinforcement learning approach for safe and stable control.** CDC, 2023. [paper](https://arxiv.org/abs/2304.04066)
+1. **Safe exploration in model-based reinforcement learning using control barrier functions.** Automatica, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0005109822005489)
 
-   *Liqun Zhao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
+   *Max H. Cohen and Calin Belta.* 
 
 1. **Enforcing hard constraints with soft barriers: Safe reinforcement learning in unknown stochastic environments.** ICML, 2023. [paper](https://openreview.net/forum?id=NbC9a9zS5K)
 
@@ -302,6 +302,7 @@ Contributed by Chunyang Zhang.
 1. **State wise safe reinforcement learning with pixel observations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02227)
 
    *Simon Sinong Zhan, Yixuan Wang, Qingyuan Wu, Ruochen Jiao, Chao Huang, and Qi Zhu.* 
+
 
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
@@ -433,6 +434,10 @@ Contributed by Chunyang Zhang.
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Ruixuan Liu, Tianhao Wei, and Changliu Liu.*
+
+1. **OmniSafe: An infrastructure for accelerating safe reinforcement learning research.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.09304)
+
+   *Jiaming Ji, Jiayi Zhou, Borong Zhang, Juntao Dai, Xuehai Pan, Ruiyang Sun, Weidong Huang, Yiran Geng, Mickel Liu, and Yaodong Yang.*
 
 1. **Datasets and benchmarks for offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09303)
 
