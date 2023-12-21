@@ -707,6 +707,10 @@ Contributed by Chunyang Zhang.
    *Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, and Soumik Sarkar.*
 
 ### [Robotics](#content)
+1. **SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priors.** Humanoids, 2023. [paper](https://arxiv.org/abs/2307.12664)
+
+   *Shafeef Omar, Lorenzo Amatucci, Victor Barasuol, Giulio Turrisi, Claudio Semini.*
+   
 1. **Evaluation of constrained reinforcement learning algorithms for legged locomotion.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15430)
 
    *Joonho Lee, Lukas Schroth, Victor Klemm, Marko Bjelonic, Alexander Reske, and Marco Hutter.*
