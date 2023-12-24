@@ -430,6 +430,10 @@ Contributed by Chunyang Zhang.
 
    *Woojun Kim, Yongjae Shin, Jongeui Park, and Youngchul Sung.*
 
+1. **Imitate the good and avoid the bad: An incremental approach to safe reinforcement learning.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.10385)
+
+   *Huy Hoang and Tien Mai Pradeep Varakantham.*
+
 ### [Library](#content) 
 1. **GUARD: A safe reinforcement learning benchmark.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.13681)
 
@@ -718,3 +722,7 @@ Contributed by Chunyang Zhang.
 1. **Constrained reinforcement learning for dexterous manipulation.** IJCAI, 2022. [paper](https://arxiv.org/abs/2301.09766)
 
    *Abhineet Jain , Jack Kolb, and Harish Ravichandar.*
+
+1. **Safe multi-agent reinforcement learning for formation control without individual reference targets.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.12861)
+
+   *Murad Dawood, Sicong Pan, Nils Dengler, Siqi Zhou, Angela P. Schoellig, and Maren Bennewitz.*
