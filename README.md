@@ -612,6 +612,10 @@ Contributed by Chunyang Zhang.
 
    *Yanran Wang and David Boyle.* 
 
+1. **Gradient shaping for multi-constraint safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15127)
+
+   *Yihang Yao, Zuxin Liu, Zhepeng Cen, Peide Huang, Tingnan Zhang, Wenhao Yu, and Ding Zhao.* 
+
 ### [Knowledge Distillation](#content)
 1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
 
