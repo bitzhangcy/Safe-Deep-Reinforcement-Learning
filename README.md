@@ -321,6 +321,10 @@ Contributed by Chunyang Zhang.
 
    *Jaafar Mhamed and Shangding Gu.* 
 
+1. **Adversarially trained actor critic for offline CMDPs.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.00629)
+
+   *Honghao Wei, Xiyue Peng, Xin Liu, and Arnob Ghosh.* 
+
 ### [Large Model](#content)
 1. **Parameter-efficient tuning helps language model alignment.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00819)
 
