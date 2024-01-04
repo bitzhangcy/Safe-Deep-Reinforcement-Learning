@@ -15,7 +15,7 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#policy-optimization">2.3 Policy Optimization</a></td>
     <td>&ensp;<a href="#bandit">2.4 Bandit</a></td>
-</tr>  
+</tr>
 <tr>
     <td>&ensp;<a href="#barrier-function">2.5 Barrier Function</a></td>
     <td>&ensp;<a href="#actor-critic">2.6 Actor Critic</a></td>
@@ -89,13 +89,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-
-
-
-
-
 ## [Survey](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
@@ -167,7 +160,7 @@ Contributed by Chunyang Zhang.
 
 1. **Model-free safe reinforcement learning through neural barrier certificate.** RAL, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10023989)
 
-   *Yujie Yang, Yuxuan Jiang, Yichen Liu,  Jianyu Chen, and Shengbo Eben Li.* 
+   *Yujie Yang, Yuxuan Jiang, Yichen Liu, Jianyu Chen, and Shengbo Eben Li.* 
 
 1. **Provably efficient model-free constrained RL with linear function approximation.** NIPS, 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/56b8f22d895c45f60eaac9580152afd9-Abstract-Conference.html)
 
@@ -416,7 +409,7 @@ Contributed by Chunyang Zhang.
 
 1. **Detecting adversarial directions in deep reinforcement learning to make robust decisions.** ICML, 2023. [paper](https://arxiv.org/abs/2306.05873)
 
-   *Ezgi Korkmaz and  Jonah Brown-Cohen.*
+   *Ezgi Korkmaz and Jonah Brown-Cohen.*
 
 1. **Efficient trust region-based safe reinforcement learning with low-bias distributional actor-critic.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10923)
 
@@ -617,7 +610,7 @@ Contributed by Chunyang Zhang.
 ### [Generative Model](#content)
 1. **Policy learning for robust markov decision process with a mismatched generative model.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20705)
 
-   *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and  Jun Zhu.* 
+   *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and Jun Zhu.* 
 
 ### [Lagrangian](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
@@ -753,7 +746,7 @@ Contributed by Chunyang Zhang.
 
 1. **Constrained reinforcement learning for dexterous manipulation.** IJCAI, 2022. [paper](https://arxiv.org/abs/2301.09766)
 
-   *Abhineet Jain , Jack Kolb, and Harish Ravichandar.*
+   *Abhineet Jain, Jack Kolb, and Harish Ravichandar.*
 
 1. **Safe multi-agent reinforcement learning for formation control without individual reference targets.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.12861)
 
