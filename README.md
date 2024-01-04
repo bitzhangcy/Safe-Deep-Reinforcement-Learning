@@ -17,7 +17,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#bandit">2.4 Bandit</a></td>
 </tr>  
 <tr>
-    <td>&ensp;<a href="#lyapunov-function">2.5 Lyapunov Function</a></td>
+    <td>&ensp;<a href="#barrier-function">2.5 Barrier Function</a></td>
     <td>&ensp;<a href="#actor-critic">2.6 Actor Critic</a></td>
 </tr>
 <tr>
@@ -87,6 +87,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
 </tr>
 </table>
+
 
 
 
@@ -278,7 +279,7 @@ Contributed by Chunyang Zhang.
 
    *Yunlong Hou, Vincent Tan, and Zixin Zhong.*
 
-### [Lyapunov Function](#content)
+### [Barrier Function](#content)
 1. **Lyapunov-based safe policy optimization for continuous control.** ICML, 2019. [paper](https://openreview.net/forum?id=SJgUYBVLsN)
 
    *Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duez-Guzmn, and Mohamamd Ghavamzadeh.* 
@@ -303,6 +304,13 @@ Contributed by Chunyang Zhang.
 
    *Simon Sinong Zhan, Yixuan Wang, Qingyuan Wu, Ruochen Jiao, Chao Huang, and Qi Zhu.* 
 
+1. **Enforcing hard constraints with soft barriers: Safe reinforcement learning in unknown stochastic environments.** ICML, 2023. [paper](https://proceedings.mlr.press/v202/wang23as.html)
+
+   *Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, Wanxin Jin, Zhuoran Yang, Zhaoran Wang, Chao Huang, and Qi Zhu.* 
+
+1. **Safe and efficient reinforcement learning using disturbance-observer-based control barrier functions.** ICML, 2023. [paper](https://proceedings.mlr.press/v211/cheng23a.html)
+
+   *Yikun Cheng, Pan Zhao, and Naira Hovakimyan.* 
 
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
@@ -492,9 +500,17 @@ Contributed by Chunyang Zhang.
 
    *Xiaoyuan Cheng, Boli Chen, Liz Varga, and Yukun Hu.*
 
-1. **Interior point constrained reinforcement learning with global convergence guarantees.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00561)
+1. **Joint chance-constrained Markov decision processes.** Annals of Operations Research, 2022. [paper](https://link.springer.com/article/10.1007/s10479-022-05025-3)
 
-   *Tingting Ni and Maryam Kamgarpour.*
+   *V Varagapriya, Vikas Vikram Singh, and Abdel Lisser.*
+
+1. **Approximate solutions to constrained risk-sensitive Markov decision processes.** European Journal of Operational Research, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221723001893)
+
+   *Uday M Kumar, Sanjay P. Bhat, Veeraruna Kavitha, and Nandyala Hemachandra.*
+
+1. **Nearly minimax optimal reinforcement learning for linear Markov decision processes.** ICML, 2023. [paper](https://proceedings.mlr.press/v202/he23d.html)
+
+   *Jiafan He, Heyang Zhao, Dongruo Zhou, and Quanquan Gu.*
 
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
@@ -512,6 +528,10 @@ Contributed by Chunyang Zhang.
 1. **Solving richly constrained reinforcement learning through state augmentation and reward penalties.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11592)
 
    *Hao Jiang, Tien Mai, Pradeep Varakantham, and Minh Huy Hoang.* 
+
+1. **State augmented constrained reinforcement learning: Overcoming the limitations of learning with rewards.** TAC, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10262328)
+
+   *Miguel Calvo-Fullana, Santiago Paternain, Luiz F. O. Chamon, and Alejandro Ribeiro.* 
 
 ### [Cost Function](#content)
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
@@ -681,6 +701,10 @@ Contributed by Chunyang Zhang.
 1. **Learn with imagination: Safe set guided state-wise constrained policy optimization.** AAAI, 2024. [paper](https://arxiv.org/abs/2308.13140)
 
    *Weiye Zhao, Yifan Sun, Feihan Li, Rui Chen, Tianhao Wei, and Changliu Liu.* 
+
+1. **Safe reinforcement learning via shielding under partial observability.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26723)
+
+   *Steven Carr, Nils Jansen, Sebastian Junges, and Ufuk Topcu.* 
 
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
