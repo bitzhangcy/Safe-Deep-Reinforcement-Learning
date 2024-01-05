@@ -55,10 +55,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#generative-model">3.11 Generative Model</a></td>
-    <td>&ensp;<a href="#lagrangian">3.12 Lagrangian</a></td>
+    <td>&ensp;<a href="#simulation">3.12 Simulation</a></td>
 </tr> 
 <tr> 
-    <td>&ensp;<a href="#knowledge-distillation">3.13 Knowledge Distillation</a></td>
+    <td>&ensp;<a href="#lagrangian">3.13 Lagrangian</a></td>
     <td>&ensp;<a href="#causal-reasoning">3.14 Causal Reasoning</a></td>
 </tr>
 <tr>
@@ -71,11 +71,11 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#latent-space">3.19 Latent Space</a></td>
-    <td>&ensp;<a href="#multi-task">3.20 Multi Task</a></td>
+    <td>&ensp;<a href="#knowledge-distillation">3.20 Knowledge Distillation</a></td>
 </tr>
 <tr>
 	<td>&ensp;<a href="#multi-agent">3.21 Multi Agent</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#multi-task">3.22 Multi Task</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -86,7 +86,14 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#cyber-attack">4.3 Cyber Attack</a></td>
     <td>&ensp;<a href="#robotics">4.4 Robotics</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#power-systems ">4.5 Power System</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 </table>
+
+
+
 
 
 ## [Survey](#content)
@@ -612,6 +619,11 @@ Contributed by Chunyang Zhang.
 
    *Jialian Li, Tongzheng Ren, Dong Yan, Hang Su, and Jun Zhu.* 
 
+### [Simulation](#content)
+1. **Sim-to-Lab-to-Real: Safe reinforcement learning with shielding and generalization guarantees.** Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370222001515)
+
+   *Kai-Chieh Hsu, Allen Z. Ren, Duy P. Nguyen, Anirudha Majumdar, and Jaime F. Fisac.* 
+
 ### [Lagrangian](#content) 
 1. **Responsive safety in reinforcement learning by PID lagrangian methods.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/stooke20a.html)
 
@@ -632,11 +644,6 @@ Contributed by Chunyang Zhang.
 1. **Gradient shaping for multi-constraint safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15127)
 
    *Yihang Yao, Zuxin Liu, Zhepeng Cen, Peide Huang, Tingnan Zhang, Wenhao Yu, and Ding Zhao.* 
-
-### [Knowledge Distillation](#content)
-1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
-
-   *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
 
 ### [Causal Reasoning](#content)
 1. **Causal temporal reasoning for Markov decision processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.08712v2)
@@ -704,10 +711,10 @@ Contributed by Chunyang Zhang.
 
    *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
-### [Multi Task](#content)
-1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
+### [Knowledge Distillation](#content)
+1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
 
-   *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
+   *Jimuyang Zhang, Zanming Huang, and Eshed Ohn-Bar.* 
 
 ### [Multi Agent](#content)
 1. **Provably efficient generalized Lagrangian policy optimization for safe multi-agent reinforcement learning.** JMLR, 2023. [paper](https://dongshed.github.io/papers/22dingprovably.pdf)
@@ -717,6 +724,11 @@ Contributed by Chunyang Zhang.
 1. **Learning adaptive safety for multi-agent systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10657)
 
    *Luigi Berducci, Shuo Yang, Rahul Mangharam, and Radu Grosu.*
+
+### [Multi Task](#content)
+1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
+
+   *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
 
 
 ## [Application](#content)
@@ -751,3 +763,8 @@ Contributed by Chunyang Zhang.
 1. **Safe multi-agent reinforcement learning for formation control without individual reference targets.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.12861)
 
    *Murad Dawood, Sicong Pan, Nils Dengler, Siqi Zhou, Angela P. Schoellig, and Maren Bennewitz.*
+
+### [Power System](#content)
+1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
+
+   *Peipei Yu, Hongcai Zhang, Yonghua Song, Hongxun Hui, and Ge Chen.*
