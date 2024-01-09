@@ -377,6 +377,14 @@ Contributed by Chunyang Zhang.
 
    *Dohyeong Kim and Songhwai Oh.* 
 
+1. **Provable safe reinforcement learning with binary feedback.** AISTATS, 2023. [paper](https://proceedings.mlr.press/v206/bennett23a.html)
+
+   *Andrew Bennett, Dipendra Misra, and Nathan Kallus.* 
+
+1. **Long-term safe reinforcement learning with binary feedback.** AAAI, 2024. [paper](https://arxiv.org/abs/2401.03786)
+
+   *Akifumi Wachi, Wataru Hashimoto, and Kazumune Hashimoto.* 
+
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
 
