@@ -93,9 +93,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-
 ## [Survey](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
@@ -771,6 +768,10 @@ Contributed by Chunyang Zhang.
 1. **Safe multi-agent reinforcement learning for formation control without individual reference targets.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.12861)
 
    *Murad Dawood, Sicong Pan, Nils Dengler, Siqi Zhou, Angela P. Schoellig, and Maren Bennewitz.*
+
+1. **Safe reinforcement learning in uncertain contexts.** TRO, 2024. [paper](https://arxiv.org/abs/2401.05876)
+
+   *Dominik Baumann and Thomas B. Schon.*
 
 ### [Power System](#content)
 1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
