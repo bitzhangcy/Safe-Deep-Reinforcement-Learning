@@ -343,6 +343,10 @@ Contributed by Chunyang Zhang.
 
    *Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, and Yaodong Yang.* 
 
+1. **Safe reinforcement learning with free-form natural language constraints and pre-trained language models.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.07553)
+
+   *Xingzhou Lou, Junge Zhang, Ziyan Wang, Kaiqi Huang, and Yali Du.* 
+
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
 
