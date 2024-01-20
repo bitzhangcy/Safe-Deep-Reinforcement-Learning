@@ -339,7 +339,7 @@ Contributed by Chunyang Zhang.
 
    *Ted Moskovitz, Aaditya K. Singh, DJ Strouse, Tuomas Sandholm, Ruslan Salakhutdinov, Anca D. Dragan, and Stephen McAleer.* 
 
-1. **Safe RLHF: Safe reinforcement learning from human feedback.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12773)
+1. **Safe RLHF: Safe reinforcement learning from human feedback.** ICLR, 2024. [paper](https://openreview.net/forum?id=TyFrPOKYXw)
 
    *Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, and Yaodong Yang.* 
 
@@ -359,6 +359,10 @@ Contributed by Chunyang Zhang.
 1. **Scalable and efficient continual learning from demonstration via hypernetwork-generated stable dynamics model.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03600)
 
    *Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodríguez-Sánchez, and Justus Piater.* 
+
+1. **SafeDreamer: Safe reinforcement learning with world models.** ICLR, 2024. [paper](https://openreview.net/forum?id=tsE5HLYtYg)
+
+   *Weidong Huang, Jiaming Ji, Borong Zhang, Chunhe Xia, and Yaodong Yang.* 
 
 ### [Evaluation](#content)
 1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
@@ -385,6 +389,10 @@ Contributed by Chunyang Zhang.
 1. **Long-term safe reinforcement learning with binary feedback.** AAAI, 2024. [paper](https://arxiv.org/abs/2401.03786)
 
    *Akifumi Wachi, Wataru Hashimoto, and Kazumune Hashimoto.* 
+
+1. **Off-policy primal-dual safe reinforcement learning.** ICLR, 2024. [paper](https://openreview.net/forum?id=vy42bYs1Wo)
+
+   *Anonymous authors.* 
 
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
@@ -611,6 +619,10 @@ Contributed by Chunyang Zhang.
    *Nicolò Botteghi, Federico Califano, Mannes Poel, and Christoph Brune.* 
 
 1. **DiffCPS: Diffusion model based constrained policy search for offline reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05333)
+
+   *Longxiang He, Linrui Zhang, Junbo Tan, and Xueqian Wang.* 
+
+1. **Feasibility-guided safe offline reinforcement learning.** ICLR, 2024. [paper](https://arxiv.org/abs/2310.05333)
 
    *Longxiang He, Linrui Zhang, Junbo Tan, and Xueqian Wang.* 
 
