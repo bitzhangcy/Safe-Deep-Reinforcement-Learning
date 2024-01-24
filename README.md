@@ -758,6 +758,10 @@ Contributed by Chunyang Zhang.
 
    *Shuo Feng, Haowei Sun, Xintao Yan, Haojie Zhu, Zhengxia Zou, Shengyin Shen, and Henry X. Liu.*
 
+1. **Enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.11148)
+
+   *Jingyuan Zhou, Longhao Yan, and Kaidi Yang.*
+
 ### [Three Dimension](#content)
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
 
