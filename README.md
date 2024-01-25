@@ -309,6 +309,10 @@ Contributed by Chunyang Zhang.
 
    *Yikun Cheng, Pan Zhao, and Naira Hovakimyan.* 
 
+1. **NLBAC: A neural ordinary differential equations-based framework for stable and safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.13148)
+
+   *Liqun Zhao, Keyan Miao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
+
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
