@@ -396,7 +396,7 @@ Contributed by Chunyang Zhang.
 
 1. **Off-policy primal-dual safe reinforcement learning.** ICLR, 2024. [paper](https://openreview.net/forum?id=vy42bYs1Wo)
 
-   *Anonymous authors.* 
+   *Zifan Wu, Bo Tang, Qian Lin, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
 
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
