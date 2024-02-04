@@ -600,6 +600,10 @@ Contributed by Chunyang Zhang.
 
    *Alaa Eddine Chriat and Chuangchuang Sun.*
 
+1. **A policy gradient primal-dual algorithm for constrained MDPs with uniform PAC guarantees.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17780)
+
+   *Toshinori Kitamura, Tadashi Kozuno, Masahiro Kato, Yuki Ichihara, Soichiro Nishimori, Akiyoshi Sannai, Sho Sonoda, Wataru Kumagai, and Yutaka Matsuo.*
+
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
 
