@@ -239,15 +239,15 @@ Contributed by Chunyang Zhang.
 
    *Long Yang, Jiaming Ji, Juntao Dai, Yu Zhang, Pengfei Li, and Gang Pan.*
 
-1. **State-wise constrained policy optimization.** arXiv, 2023 [paper](https://arxiv.org/abs/2306.12594)
+1. **State-wise constrained policy optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12594)
 
    *Weiye Zhao, Rui Chen, Yifan Sun, Tianhao Wei, and Changliu Liu.*
 
-1. **Scalable safe policy improvement via Monte Carlo tree search.** ICML, 2023 [paper](https://openreview.net/forum?id=tevbBSzSfK)
+1. **Scalable safe policy improvement via Monte Carlo tree search.** ICML, 2023. [paper](https://openreview.net/forum?id=tevbBSzSfK)
 
    *Alberto Castellini, Federico Bianchi, Edoardo Zorzi, Thiago D. Simão, Alessandro Farinelli, and Matthijs T. J. Spaan.*
 
-1. **Towards robust and safe reinforcement learning with Benign off-policy data.** ICML, 2023 [paper](https://openreview.net/forum?id=LB0aNUgIaB)
+1. **Towards robust and safe reinforcement learning with Benign off-policy data.** ICML, 2023. [paper](https://openreview.net/forum?id=LB0aNUgIaB)
 
    *Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Yihang Yao, Hanjiang Hu, and Ding Zhao.*
 
@@ -255,21 +255,25 @@ Contributed by Chunyang Zhang.
 
    *Yihang Yao, Zuxin Liu, Zhepeng Cen, Jiacheng Zhu, Wenhao Yu, Tingnan Zhang, and Ding Zhao.*
 
-1. **Quantile constrained reinforcement learning: A reinforcement learning framework constraining outage probability.** NIPS, 2022 [paper](https://openreview.net/forum?id=MOGt8ZizQJL)
+1. **Quantile constrained reinforcement learning: A reinforcement learning framework constraining outage probability.** NIPS, 2022. [paper](https://openreview.net/forum?id=MOGt8ZizQJL)
 
    *Whiyoung Jung, Myungsik Cho, Jongeui Park, and Youngchul Sung.*
 
-1. **Reinforcement learning in a safety-embedded MDP with trajectory optimization.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.06903)
+1. **Reinforcement learning in a safety-embedded MDP with trajectory optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.06903)
 
    *Fan Yang, Wenxuan Zhou, Zuxin Liu, Ding Zhao, and David Held.*
 
-1. **Recursively-constrained partially observable Markov decision processes.** arXiv, 2023 [paper](https://arxiv.org/abs/2310.09688)
+1. **Recursively-constrained partially observable Markov decision processes.** arXiv, 2023。 [paper](https://arxiv.org/abs/2310.09688)
 
    *Qi Heng Ho, Tyler Becker, Ben Kraske, Zakariya Laouar, Martin Feather, Federico Rossi, Morteza Lahijanian, and Zachary N. Sunberg.*
 
-1. **TRC: Trust region conditional value at risk for safe reinforcement learning.** arXiv, 2023 [paper](https://arxiv.org/abs/2312.00344)
+1. **TRC: Trust region conditional value at risk for safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00344)
 
    *Dohyeong Kim and Songhwai Oh.*
+
+1. **Transition constrained bayesian optimization via Markov decision processes.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08406)
+
+   *Jose Pablo Folch, Calvin Tsay, Robert M Lee, Behrang Shafei, Weronika Ormaniec, Andreas Krause, Mark van der Wilk, Ruth Misener, and Mojmír Mutný.*
 
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
