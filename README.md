@@ -275,6 +275,10 @@ Contributed by Chunyang Zhang.
 
    *Jose Pablo Folch, Calvin Tsay, Robert M Lee, Behrang Shafei, Weronika Ormaniec, Andreas Krause, Mark van der Wilk, Ruth Misener, and Mojmír Mutný.*
 
+1. **Safety optimized reinforcement learning via multi-objective policy optimization.** ICRA, 2024. [paper](https://arxiv.org/abs/2402.15197)
+
+   *Homayoun Honari, Mehran Ghafarian Tamizi, and Homayoun Najjaran.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
