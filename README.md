@@ -279,6 +279,10 @@ Contributed by Chunyang Zhang.
 
    *Homayoun Honari, Mehran Ghafarian Tamizi, and Homayoun Najjaran.*
 
+1. **Double duality: Variational primal-dual policy optimization for constrained reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10810)
+
+   *Zihao Li, Boyi Liu, Zhuoran Yang, Zhaoran Wang, and Mengdi Wang.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -541,6 +545,14 @@ Contributed by Chunyang Zhang.
 
    *Jiafan He, Heyang Zhao, Dongruo Zhou, and Quanquan Gu.*
 
+1. **Truly no-regret learning in constrained MDPs.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15776)
+
+   *Adrian Müller, Pragnya Alatur, Volkan Cevher, Giorgia Ramponi, and Niao He.*
+
+1. **Achieving O~(1/ε) Sample Complexity for Constrained Markov Decision Process.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16324)
+
+   *Jiashuo Jiang and Yinyu Ye.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
@@ -705,6 +717,10 @@ Contributed by Chunyang Zhang.
 
    *Matteo Turchetta, Andrey Kolobov, Shital Shah, Andreas Krause, and Alekh Agarwal.* 
 
+1. **Concurrent learning of policy and unknown safety constraints in reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15893)
+
+   *Lunet Yifru and Ali Baheri.* 
+
 ### [Continual Learning](#content) 
 1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
 
@@ -785,6 +801,10 @@ Contributed by Chunyang Zhang.
 1. **Enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.11148)
 
    *Jingyuan Zhou, Longhao Yan, and Kaidi Yang.*
+
+1. **Multi-constraint safe RL with objective suppression for safety-critical applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15650)
+
+   *Zihan Zhou, Jonathan Booher, Wei Liu, Aleksandr Petiushko, and Animesh Garg.*
 
 ### [Three Dimension](#content)
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
