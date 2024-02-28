@@ -671,6 +671,10 @@ Contributed by Chunyang Zhang.
 
    *Chang Chen, Yi-Fu Wu, Jaesik Yoon, and Sungjin Ahn.* 
 
+1. **Temporal logic specification-conditioned decision Transformer for offline safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17217)
+
+   *Zijian Guo, Weichao Zhou, and Wenchao Li.* 
+
 ### [Generative Model](#content)
 1. **Policy learning for robust markov decision process with a mismatched generative model.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20705)
 
