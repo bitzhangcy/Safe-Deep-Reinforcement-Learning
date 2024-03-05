@@ -841,6 +841,10 @@ Contributed by Chunyang Zhang.
 
    *Dominik Baumann and Thomas B. Schon.*
 
+1. **Offline goal-conditioned reinforcement learning for safety-critical tasks with recovery policy.** ICRA, 2024. [paper](https://arxiv.org/abs/2403.01734)
+
+   *Chenyang Cao, Zichen Yan, Renhao Lu, Junbo Tan, and Xueqian Wang.*
+
 ### [Power System](#content)
 1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
 
