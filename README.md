@@ -549,9 +549,13 @@ Contributed by Chunyang Zhang.
 
    *Adrian Müller, Pragnya Alatur, Volkan Cevher, Giorgia Ramponi, and Niao He.*
 
-1. **Achieving O~(1/ε) Sample Complexity for Constrained Markov Decision Process.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16324)
+1. **Achieving O~(1/ε) sample complexity for constrained markov decision process.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16324)
 
    *Jiashuo Jiang and Yinyu Ye.*
+
+1. **Sampling-based safe reinforcement learning for nonlinear dynamical systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.04007)
+
+   *Wesley A. Suttle, Vipul K. Sharma, Krishna C. Kosaraju, S. Sivaranjani, Ji Liu, Vijay Gupta, and Brian M. Sadler.*
 
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
