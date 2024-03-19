@@ -557,6 +557,10 @@ Contributed by Chunyang Zhang.
 
    *Wesley A. Suttle, Vipul K. Sharma, Krishna C. Kosaraju, S. Sivaranjani, Ji Liu, Vijay Gupta, and Brian M. Sadler.*
 
+1. **Learning adversarial MDPs with stochastic hard constraints.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.03672)
+
+   *Francesco Emanuele Stradi, Matteo Castiglioni, Alberto Marchesi, and Nicola Gatti.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
