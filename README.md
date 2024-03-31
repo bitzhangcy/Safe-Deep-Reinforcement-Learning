@@ -122,6 +122,10 @@ Contributed by Chunyang Zhang.
 
    *Leonardo Villalobos-Arias, Derek Martin, Abhijeet Krishnan, Madeleine Gagné, Colin M. Potts, and Arnav Jhala.* 
 
+1. **Safe and robust reinforcement-learning: Principles and practice.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.18539)
+
+   *Taku Yamagata and Raul Santos-Rodriguez.* 
+
 
 ## [Methodology](#content)
 ### [Model Based](#content) 
