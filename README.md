@@ -857,6 +857,10 @@ Contributed by Chunyang Zhang.
 
    *Chenyang Cao, Zichen Yan, Renhao Lu, Junbo Tan, and Xueqian Wang.*
 
+1. **Safe reinforcement learning on the constraint manifold: Theory and applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.09080)
+
+   *Puze Liu, Haitham Bou-Ammar, Jan Peters, and Davide Tateo.*
+
 ### [Power System](#content)
 1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
 
