@@ -565,6 +565,10 @@ Contributed by Chunyang Zhang.
 
    *Francesco Emanuele Stradi, Matteo Castiglioni, Alberto Marchesi, and Nicola Gatti.*
 
+1. **ConstrainedZero: Chance-constrained POMDP planning using learned probabilistic failure surrogates and adaptive safety constraints.** IJCAI, 2024. [paper](https://arxiv.org/abs/2405.00644)
+
+   *Robert J. Moss, Arec Jamgochian, Johannes Fischer, Anthony Corso, and Mykel J. Kochenderfer.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
