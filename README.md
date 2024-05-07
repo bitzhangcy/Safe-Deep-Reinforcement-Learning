@@ -787,6 +787,10 @@ Contributed by Chunyang Zhang.
 
    *Steven Carr, Nils Jansen, Sebastian Junges, and Ufuk Topcu.* 
 
+1. **Safe reinforcement learning with learned non-Markovian safety constraints.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.03005)
+
+   *Siow Meng Low and Akshat Kumar.* 
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
