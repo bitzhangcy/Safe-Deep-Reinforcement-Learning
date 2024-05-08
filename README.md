@@ -287,6 +287,10 @@ Contributed by Chunyang Zhang.
 
    *Zihao Li, Boyi Liu, Zhuoran Yang, Zhaoran Wang, and Mengdi Wang.*
 
+1. **ACPO: A policy optimization algorithm for average MDPs with constraints.** ICML, 2024. [paper](https://arxiv.org/abs/2302.00808)
+
+   *Akhil Agnihotri, Rahul Jain, and Haipeng Luo.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
