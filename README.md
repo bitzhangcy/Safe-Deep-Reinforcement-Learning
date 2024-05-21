@@ -795,6 +795,10 @@ Contributed by Chunyang Zhang.
 
    *Siow Meng Low and Akshat Kumar.* 
 
+1. **Feasibility consistent representation learning for safe reinforcement learning.** ICML, 2024. [paper](https://arxiv.org/abs/2405.11718)
+
+   *Zhepeng Cen, Yihang Yao, Zuxin Liu, and Ding Zhao.* 
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
@@ -833,6 +837,10 @@ Contributed by Chunyang Zhang.
 1. **Multi-constraint safe RL with objective suppression for safety-critical applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15650)
 
    *Zihan Zhou, Jonathan Booher, Wei Liu, Aleksandr Petiushko, and Animesh Garg.*
+
+1. **Do no harm: A counterfactual approach to safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11669)
+
+   *Sean Vaskov, Wilko Schwarting, and Chris L. Baker.*
 
 ### [Three Dimension](#content)
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
