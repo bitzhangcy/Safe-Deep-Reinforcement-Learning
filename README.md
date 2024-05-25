@@ -388,6 +388,10 @@ Contributed by Chunyang Zhang.
 
    *Weidong Huang, Jiaming Ji, Borong Zhang, Chunhe Xia, and Yaodong Yang.* 
 
+1. **Dynamic model predictive shielding for provably safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13863)
+
+   *Arko Banerjee, Kia Rahmani, Joydeep Biswas, and Isil Dillig.* 
+
 ### [Evaluation](#content)
 1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
 
