@@ -392,6 +392,10 @@ Contributed by Chunyang Zhang.
 
    *Arko Banerjee, Kia Rahmani, Joydeep Biswas, and Isil Dillig.* 
 
+1. **Verified safe reinforcement learning for neural network dynamic models.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15994)
+
+   *Junlin Wu, Huan Zhang, and Yevgeniy Vorobeychik.* 
+
 ### [Evaluation](#content)
 1. **Evaluating model-free reinforcement learning toward safety-critical tasks.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.05727)
 
@@ -826,6 +830,10 @@ Contributed by Chunyang Zhang.
 1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
 
    *Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, and Zhiwei Steven Wu.* 
+
+1. **Safe and balanced: A framework for constrained multi-objective reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16390)
+
+   *Shangding Gu, Bilgehan Sel, Yuhao Ding, Lu Wang, Qingwei Lin, Alois Knoll, and Ming Jin* 
 
 
 ## [Application](#content)
