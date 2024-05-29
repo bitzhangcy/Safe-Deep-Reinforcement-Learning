@@ -807,6 +807,10 @@ Contributed by Chunyang Zhang.
 
    *Zhepeng Cen, Yihang Yao, Zuxin Liu, and Ding Zhao.* 
 
+1. **Safe reinforcement learning in black-box environments via adaptive shielding.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18180)
+
+   *Daniel Bethell, Simos Gerasimou, Radu Calinescu, and Calum Imrie.* 
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
@@ -853,6 +857,10 @@ Contributed by Chunyang Zhang.
 1. **Do no harm: A counterfactual approach to safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11669)
 
    *Sean Vaskov, Wilko Schwarting, and Chris L. Baker.*
+
+1. **Safe multi-agent reinforcement learning with bilevel optimization in autonomous driving.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18209)
+
+   *Zhi Zheng and Shangding Gu.*
 
 ### [Three Dimension](#content)
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
