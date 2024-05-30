@@ -291,6 +291,10 @@ Contributed by Chunyang Zhang.
 
    *Akhil Agnihotri, Rahul Jain, and Haipeng Luo.*
 
+1. **Spectral-risk safe reinforcement learning with convergence guarantees.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18698)
+
+   *Dohyeong Kim, Taehyun Cho, Seungyub Han, Hojun Chung, Kyungjae Lee, and Songhwai Oh*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -580,6 +584,10 @@ Contributed by Chunyang Zhang.
 1. **ConstrainedZero: Chance-constrained POMDP planning using learned probabilistic failure surrogates and adaptive safety constraints.** IJCAI, 2024. [paper](https://arxiv.org/abs/2405.00644)
 
    *Robert J. Moss, Arec Jamgochian, Johannes Fischer, Anthony Corso, and Mykel J. Kochenderfer.*
+
+1. **Efficient exploration in average-reward constrained reinforcement learning: Achieving near-optimal regret with posterior sampling.** ICML, 2024. [paper](https://arxiv.org/abs/2405.19017)
+
+   *Danil Provodin, Maurits Kaptein, and Mykola Pechenizkiy.*
 
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
