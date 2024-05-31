@@ -838,6 +838,10 @@ Contributed by Chunyang Zhang.
 
    *Luigi Berducci, Shuo Yang, Rahul Mangharam, and Radu Grosu.*
 
+1. **Safe multi-agent reinforcement learning with natural language constraints.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.20018)
+
+   *Ziyan Wang, Meng Fang, Tristan Tomilin, Fei Fang, and Yali Du.*
+
 ### [Multi Task](#content)
 1. **Learning shared safety constraints from multi-task demonstrations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00711)
 
