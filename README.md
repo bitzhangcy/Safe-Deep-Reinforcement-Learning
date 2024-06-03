@@ -293,7 +293,11 @@ Contributed by Chunyang Zhang.
 
 1. **Spectral-risk safe reinforcement learning with convergence guarantees.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18698)
 
-   *Dohyeong Kim, Taehyun Cho, Seungyub Han, Hojun Chung, Kyungjae Lee, and Songhwai Oh*
+   *Dohyeong Kim, Taehyun Cho, Seungyub Han, Hojun Chung, Kyungjae Lee, and Songhwai Oh.*
+
+1. **Enhancing efficiency of safe reinforcement learning via sample manipulation.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.20860)
+
+   *Shangding Gu, Laixi Shi, Yuhao Ding, Alois Knoll, Costas Spanos, Adam Wierman, and Ming Jin.*
 
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
