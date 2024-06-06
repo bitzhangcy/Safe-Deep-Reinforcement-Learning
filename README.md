@@ -593,6 +593,10 @@ Contributed by Chunyang Zhang.
 
    *Danil Provodin, Maurits Kaptein, and Mykola Pechenizkiy.*
 
+1. **Achieving tractable minimax optimal regret in average reward MDPs.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.01234)
+
+   *Victor Boone and Zihan Zhang.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
