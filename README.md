@@ -77,6 +77,10 @@ Contributed by Chunyang Zhang.
 	<td>&ensp;<a href="#multi-agent">3.21 Multi Agent</a></td>
     <td>&ensp;<a href="#multi-task">3.22 Multi Task</a></td>
 </tr>
+<tr>
+	<td>&ensp;<a href="#markov-decision-process">3.23 Markov Decision Process</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#autonomous-driving">4.1 Autonomous Driving<//a></td>
@@ -91,6 +95,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 ## [Survey](#content)
@@ -858,6 +863,11 @@ Contributed by Chunyang Zhang.
 1. **Safe and balanced: A framework for constrained multi-objective reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16390)
 
    *Shangding Gu, Bilgehan Sel, Yuhao Ding, Lu Wang, Qingwei Lin, Alois Knoll, and Ming Jin* 
+
+### [Markov Decision Process](#content)
+1. **GenSafe: A generalizable safety enhancer for safe reinforcement learning algorithms based on reduced order Markov decision process model.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03912)
+
+   *Zhehua Zhou, Xuan Xie, Jiayang Song, Zhan Shu, and Lei Ma.* 
 
 
 ## [Application](#content)
