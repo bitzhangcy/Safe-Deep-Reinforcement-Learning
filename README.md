@@ -931,6 +931,10 @@ Contributed by Chunyang Zhang.
 
    *Puze Liu, Haitham Bou-Ammar, Jan Peters, and Davide Tateo.*
 
+1. **SRL-VIC: A variable stiffness-based safe reinforcement learning for contact-rich robotic tasks.** RA-L, 2024. [paper](https://arxiv.org/abs/2406.13744)
+
+   *Heng Zhang, Gokhan Solak, Gustavo J. G. Lahr, and Arash Ajoudani.*
+
 ### [Power System](#content)
 1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
 
