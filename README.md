@@ -936,6 +936,14 @@ Contributed by Chunyang Zhang.
    *Heng Zhang, Gokhan Solak, Gustavo J. G. Lahr, and Arash Ajoudani.*
 
 ### [Power System](#content)
-1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** IEEE Transactions on Power Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
+1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** TPS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
 
    *Peipei Yu, Hongcai Zhang, Yonghua Song, Hongxun Hui, and Ge Chen.*
+
+1. **Safe reinforcement learning for power system control: A review.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.00681)
+
+   *Peipei Yu, Zhenyi Wang, Hongcai Zhang, and Yonghua Song.*
+
+1. **A review of safe reinforcement learning methods for modern power systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.00304)
+
+   *Tong Su, Tong Wu, Junbo Zhao, Anna Scaglione, and Le Xie.*
