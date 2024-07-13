@@ -79,7 +79,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
 	<td>&ensp;<a href="#markov-decision-process">3.23 Markov Decision Process</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#solver">3.24 Solver</a></td>
 </tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
@@ -95,6 +95,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 ## [Survey](#content)
@@ -314,6 +315,10 @@ Contributed by Chunyang Zhang.
 1. **CVaR-constrained policy optimization for safe reinforcement learning.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10444044)
 
    *Qiyuan Zhang, Shu Leng, Xiaoteng Ma, Qihan Liu, Xueqian Wang, Bin Liang, Yu Liu, and Jun Yang.*
+
+1. **Safe reinforcement learning using finite-horizon gradient-based estimation.** ICML, 2024. [paper](https://openreview.net/forum?id=BiENLaUwlK)
+
+   *Juntao Dai, Yaodong Yang, Qian Zheng, and Gang Pan.*
 
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
@@ -743,7 +748,7 @@ Contributed by Chunyang Zhang.
 
    *Chang Chen, Yi-Fu Wu, Jaesik Yoon, and Sungjin Ahn.* 
 
-1. **Temporal logic specification-conditioned decision Transformer for offline safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17217)
+1. **Temporal logic specification-conditioned decision Transformer for offline safe reinforcement learning.** ICML, 2024. [paper](https://openreview.net/forum?id=7bg10Jj3bG)
 
    *Zijian Guo, Weichao Zhou, and Wenchao Li.* 
 
@@ -891,6 +896,11 @@ Contributed by Chunyang Zhang.
 1. **GenSafe: A generalizable safety enhancer for safe reinforcement learning algorithms based on reduced order Markov decision process model.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03912)
 
    *Zhehua Zhou, Xuan Xie, Jiayang Song, Zhan Shu, and Lei Ma.* 
+
+### [Solver](#content)
+1. **Langevin policy for safe reinforcement learning.** ICML, 2024. [paper](https://openreview.net/forum?id=xgoilgLPGD)
+
+   *Fenghao Lei, Long Yang, Shiting Wen, Zhixiong Huang, Zhiwang Zhang, and Chaoyi Pang.* 
 
 
 ## [Application](#content)
