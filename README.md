@@ -97,7 +97,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
 ## [Survey](#content)
 1. **A comprehensive survey on safe reinforcement learning.** JMLR, 2015. [paper](https://www.jmlr.org/papers/v16/garcia15a.html)
 
@@ -276,6 +275,10 @@ Contributed by Chunyang Zhang.
 
    *Qi Heng Ho, Tyler Becker, Ben Kraske, Zakariya Laouar, Martin Feather, Federico Rossi, Morteza Lahijanian, and Zachary N. Sunberg.*
 
+1. **Trust region-based safe distributional reinforcement learning for multiple constraints.** NIPS, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f20f2b0315c72201e23512fdbd1ee91-Abstract-Conference.html)
+
+   *Dohyeong Kim, Kyungjae Lee, and Songhwai Oh.*
+
 1. **TRC: Trust region conditional value at risk for safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00344)
 
    *Dohyeong Kim and Songhwai Oh.*
@@ -303,6 +306,14 @@ Contributed by Chunyang Zhang.
 1. **Enhancing efficiency of safe reinforcement learning via sample manipulation.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.20860)
 
    *Shangding Gu, Laixi Shi, Yuhao Ding, Alois Knoll, Costas Spanos, Adam Wierman, and Ming Jin.*
+
+1. **Confident natural policy gradient for local planning in qπ-realizable constrained MDPs.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.18529)
+
+   *Tian Tian, Lin F. Yang, and Csaba Szepesvári.*
+
+1. **CVaR-constrained policy optimization for safe reinforcement learning.** TNNLS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10444044)
+
+   *Qiyuan Zhang, Shu Leng, Xiaoteng Ma, Qihan Liu, Xueqian Wang, Bin Liang, Yu Liu, and Jun Yang.*
 
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
@@ -345,6 +356,10 @@ Contributed by Chunyang Zhang.
 1. **NLBAC: A neural ordinary differential equations-based framework for stable and safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.13148)
 
    *Liqun Zhao, Keyan Miao, Konstantinos Gatsis, and Antonis Papachristodoulou.* 
+
+1. **Log barriers for safe black-box optimization with application to safe reinforcement learning.** JMLR, 2024. [paper](https://www.jmlr.org/papers/v25/22-0878.html)
+
+   *Ilnura Usmanova, Yarden As, Maryam Kamgarpour, and Andreas Krause.* 
 
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
@@ -500,7 +515,7 @@ Contributed by Chunyang Zhang.
 
    *Akifumi Wachi, Wataru Hashimoto, Xun Shen, and Kazumune Hashimoto.*
 
-1. **Sample-efficient and safe deep reinforcement learning via reset deep ensemble agents.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.20287)
+1. **Sample-efficient and safe deep reinforcement learning via reset deep ensemble agents.** NIPS, 2023. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a6f6a5c517b2b92f3d309786af64086c-Abstract-Conference.html)
 
    *Woojun Kim, Yongjae Shin, Jongeui Park, and Youngchul Sung.*
 
@@ -623,6 +638,10 @@ Contributed by Chunyang Zhang.
 
    *Miguel Calvo-Fullana, Santiago Paternain, Luiz F. O. Chamon, and Alejandro Ribeiro.* 
 
+1. **Balance reward and safety optimization for safe reinforcement learning: A perspective of gradient manipulation.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30102)
+
+   *Shangding Gu, Bilgehan Sel, Yuhao Ding, Lu Wang, Qingwei Lin, Ming Jin, and Alois Knoll* 
+
 ### [Cost Function](#content)
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
 
@@ -680,6 +699,10 @@ Contributed by Chunyang Zhang.
 1. **Learning general parameterized policies for infinite horizon average reward constrained MDPs via primal-dual policy gradient algorithm.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02042)
 
    *Qinbo Bai, Washim Uddin Mondal, and Vaneet Aggarwal.*
+
+1. **POCE: Primal policy optimization with conservative estimation for multi-constraint offline reinforcement learning.** CVPR, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Guan_POCE_Primal_Policy_Optimization_with_Conservative_Estimation_for_Multi-constraint_Offline_CVPR_2024_paper.html)
+
+   *iayi Guan, Li Shen, Ao Zhou, Lusong Li, Han Hu, Xiaodong He, Guang Chen, and Changjun Jiang.*
 
 ### [Deployment](#content) 
 1. **Towards deployment-efficient reinforcement learning: Lower bound and optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=ccWaPGl9Hq)
