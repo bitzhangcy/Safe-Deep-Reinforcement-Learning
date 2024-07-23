@@ -320,6 +320,10 @@ Contributed by Chunyang Zhang.
 
    *Juntao Dai, Yaodong Yang, Qian Zheng, and Gang Pan.*
 
+1. **Exterior penalty policy optimization with penalty metric network under constraints.** IJCAI, 2024. [paper](https://arxiv.org/abs/2407.15537)
+
+   *Shiqing Gao, Jiaxin Ding, Luoyi Fu, Xinbing Wang, and Chenghu Zhou.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -458,6 +462,10 @@ Contributed by Chunyang Zhang.
 1. **Off-policy primal-dual safe reinforcement learning.** ICLR, 2024. [paper](https://openreview.net/forum?id=vy42bYs1Wo)
 
    *Zifan Wu, Bo Tang, Qian Lin, Chao Yu, Shangqin Mao, Qianlong Xie, Xingxing Wang, and Dong Wang.* 
+
+1. **OASIS: Conditional distribution shaping for offline safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.14653)
+
+   *Yihang Yao, Zhepeng Cen, Wenhao Ding, Haohong Lin, Shiqi Liu, Tingnan Zhang, Wenhao Yu, and Ding Zhao.* 
 
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
