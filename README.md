@@ -734,6 +734,10 @@ Contributed by Chunyang Zhang.
 
    *Qisong Yang, Thiago D. Simão, Nils Jansen, Simon H. Tindemans, and Matthijs T. J. Spaan.* 
 
+1. **Meta SAC-Lag: Towards deployable safe reinforcement learning via metagradient-based hyperparameter tuning.** IROS, 2024. [paper](https://arxiv.org/abs/2408.07962)
+
+   *Homayoun Honari, Amir Mehdi Soufi Enayati, Mehran Ghafarian Tamizi, and Homayoun Najjaran* 
+
 ### [Diffusion Model](#content)
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
 
