@@ -324,6 +324,10 @@ Contributed by Chunyang Zhang.
 
    *Shiqing Gao, Jiaxin Ding, Luoyi Fu, Xinbing Wang, and Chenghu Zhou.*
 
+1. **Solving truly massive budgeted monotonic POMDPs with oracle-guided meta-reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.07192)
+
+   *Manav Vora, Michael N Grussing, and Melkior Ornik.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
