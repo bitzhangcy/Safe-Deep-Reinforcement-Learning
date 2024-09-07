@@ -81,6 +81,10 @@ Contributed by Chunyang Zhang.
 	<td>&ensp;<a href="#markov-decision-process">3.23 Markov Decision Process</a></td>
     <td>&ensp;<a href="#solver">3.24 Solver</a></td>
 </tr>
+<tr>
+	<td>&ensp;<a href="#policy-identification">3.25 Policy Identification</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#application">4. Application</a></td></tr>
 <tr>
     <td>&ensp;<a href="#autonomous-driving">4.1 Autonomous Driving<//a></td>
@@ -95,6 +99,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#"></a></td>
 </tr>
 </table>
+
 
 
 
@@ -917,6 +922,11 @@ Contributed by Chunyang Zhang.
 1. **Langevin policy for safe reinforcement learning.** ICML, 2024. [paper](https://openreview.net/forum?id=xgoilgLPGD)
 
    *Fenghao Lei, Long Yang, Shiting Wen, Zhixiong Huang, Zhiwang Zhang, and Chaoyi Pang.* 
+
+### [Policy Identification](#content)
+1. **Near-optimal policy identification in robust constrained Markov decision processes via epigraph form.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.16286)
+
+   *Toshinori Kitamura, Tadashi Kozuno, Wataru Kumagai, Kenta Hoshino, Yohei Hosoe, Kazumi Kasaura, Masashi Hamaya, Paavo Parmas, and Yutaka Matsuo.* 
 
 
 ## [Application](#content)
