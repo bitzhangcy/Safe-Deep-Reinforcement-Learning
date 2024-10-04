@@ -333,6 +333,10 @@ Contributed by Chunyang Zhang.
 
    *Manav Vora, Michael N Grussing, and Melkior Ornik.*
 
+1. **Absolute state-wise constrained policy optimization: High-probability state-wise constraints satisfaction.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01212)
+
+   *Weiye Zhao, Feihan Li, Yifan Sun, Yujie Wang, Rui Chen, Tianhao Wei, and Changliu Liu.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -880,6 +884,10 @@ Contributed by Chunyang Zhang.
 1. **Safe reinforcement learning in black-box environments via adaptive shielding.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18180)
 
    *Daniel Bethell, Simos Gerasimou, Radu Calinescu, and Calum Imrie.* 
+
+1. **Realizable continuous-space shields for safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.02038)
+
+   *Kyungmin Kim, Davide Corsi, Andoni Rodriguez, JB Lanier, Benjami Parellada, Pierre Baldi, Cesar Sanchez, and Roy Fox.* 
 
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
