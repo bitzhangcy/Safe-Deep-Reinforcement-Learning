@@ -641,6 +641,10 @@ Contributed by Chunyang Zhang.
 
    *Victor Boone and Zihan Zhang.*
 
+1. **Improved regret bound for safe reinforcement learning via tighter cost pessimism and reward optimism.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.10158)
+
+   *Kihyun Yu, Duksang Lee, William Overman, and Dabeen Lee.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
