@@ -96,11 +96,9 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#power-systems ">4.5 Power System</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#medicine">4.6 Medicine</a></td>
 </tr>
 </table>
-
-
 
 
 ## [Survey](#content)
@@ -1014,3 +1012,8 @@ Contributed by Chunyang Zhang.
 1. **A review of safe reinforcement learning methods for modern power systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.00304)
 
    *Tong Su, Tong Wu, Junbo Zhao, Anna Scaglione, and Le Xie.*
+
+### [Medicine](#content)
+1. **Offline inverse constrained reinforcement learning for safe-critical decision making in healthcare.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.07525)
+
+   *Nan Fang, Guiliang Liu, and Wei Gong*
