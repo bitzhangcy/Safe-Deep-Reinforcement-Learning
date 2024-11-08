@@ -419,6 +419,10 @@ Contributed by Chunyang Zhang.
 
    *Xingzhou Lou, Junge Zhang, Ziyan Wang, Kaiqi Huang, and Yali Du.* 
 
+1. **Progressive safeguards for safe and model-agnostic reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.24096)
+
+   *Nabil Omi, Hosein Hasanbeig, Hiteshi Sharma, Sriram K. Rajamani, and Siddhartha Sen.* 
+
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
 
