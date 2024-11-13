@@ -1008,6 +1008,10 @@ Contributed by Chunyang Zhang.
 
    *Heng Zhang, Gokhan Solak, Gustavo J. G. Lahr, and Arash Ajoudani.*
 
+1. **Safe reinforcement learning of robot trajectories in the presence of moving obstacles.** RA-L, 2024. [paper](https://ieeexplore.ieee.org/document/10738380)
+
+   *Jonas Kiemel, Ludovic Righetti, Torsten Kröger, and Tamim Asfour.*
+
 ### [Power System](#content)
 1. **District cooling system control for providing operating reserve based on safe deep reinforcement learning.** TPS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10019581)
 
