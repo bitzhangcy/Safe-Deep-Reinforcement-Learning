@@ -335,6 +335,10 @@ Contributed by Chunyang Zhang.
 
    *Weiye Zhao, Feihan Li, Yifan Sun, Yujie Wang, Rui Chen, Tianhao Wei, and Changliu Liu.*
 
+1. **Safe reinforcement learning using finite-horizon gradient-based estimation.** ICML, 2024. [paper](https://openreview.net/forum?id=BiENLaUwlK)
+
+   *Juntao Dai, Yaodong Yang, Qian Zheng, and Gang Pan.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -422,6 +426,10 @@ Contributed by Chunyang Zhang.
 1. **Progressive safeguards for safe and model-agnostic reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.24096)
 
    *Nabil Omi, Hosein Hasanbeig, Hiteshi Sharma, Sriram K. Rajamani, and Siddhartha Sen.* 
+
+1. **From text to trajectory: Exploring complex constraint representation and decomposition in safe reinforcement learning.** NIPS, 2024. [paper](https://openreview.net/forum?id=MDpIQ9hQ7H&noteId=FRD5TZCR8Y)
+
+   *Pusen Dong, Tianchen Zhu, Yue Qiu, Haoyi Zhou, and Jianxin Li* 
 
 ### [Dynamics Modeling](#content)
 1. **SaFormer: A conditional sequence modeling approach to offline safe reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.12203)
