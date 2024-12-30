@@ -319,10 +319,6 @@ Contributed by Chunyang Zhang.
 
    *Qiyuan Zhang, Shu Leng, Xiaoteng Ma, Qihan Liu, Xueqian Wang, Bin Liang, Yu Liu, and Jun Yang.*
 
-1. **Safe reinforcement learning using finite-horizon gradient-based estimation.** ICML, 2024. [paper](https://openreview.net/forum?id=BiENLaUwlK)
-
-   *Juntao Dai, Yaodong Yang, Qian Zheng, and Gang Pan.*
-
 1. **Exterior penalty policy optimization with penalty metric network under constraints.** IJCAI, 2024. [paper](https://arxiv.org/abs/2407.15537)
 
    *Shiqing Gao, Jiaxin Ding, Luoyi Fu, Xinbing Wang, and Chenghu Zhou.*
