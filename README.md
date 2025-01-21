@@ -335,6 +335,10 @@ Contributed by Chunyang Zhang.
 
    *Juntao Dai, Yaodong Yang, Qian Zheng, and Gang Pan.*
 
+1. **Tilted quantile gradient updates for quantile-constrained reinforcement learning.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.13184)
+
+   *Chenglin Li, Guangchun Ruan, and Hua Geng.*
+
 ### [Bandit](#content) 
 1. **Probably anytime-safe stochastic combinatorial semi-bandits.** ICML, 2023. [paper](https://openreview.net/forum?id=14fSjJyJAR)
 
@@ -485,6 +489,10 @@ Contributed by Chunyang Zhang.
 1. **OASIS: Conditional distribution shaping for offline safe reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.14653)
 
    *Yihang Yao, Zhepeng Cen, Wenhao Ding, Haohong Lin, Shiqi Liu, Tingnan Zhang, Wenhao Yu, and Ding Zhao.* 
+
+1. **Offline safe reinforcement learning using trajectory classification.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.15429)
+
+   *Ze Gong, Akshat Kumar, and Pradeep Varakantham.* 
 
 ### [Adversarial Reinforcement Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
