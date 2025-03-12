@@ -907,6 +907,14 @@ Contributed by Chunyang Zhang.
 
    *Kyungmin Kim, Davide Corsi, Andoni Rodriguez, JB Lanier, Benjami Parellada, Pierre Baldi, Cesar Sanchez, and Roy Fox.* 
 
+1. **Safety representations for safer policy learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=gJG4IPwg6l)
+
+   *Kaustubh Mani, Vincent Mai, Charlie Gauthier, Annie S Chen, Samer B. Nashed, and Liam Paull.* 
+
+1. **Probabilistic shielding for safe reinforcement learning.** AAAI, 2025. [paper](https://arxiv.org/abs/2503.07671)
+
+   *Edwin Hamel-De le Court, Francesco Belardinelli, and Alex W. Goodall.* 
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
@@ -976,6 +984,10 @@ Contributed by Chunyang Zhang.
 1. **Safe multi-agent reinforcement learning with bilevel optimization in autonomous driving.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.18209)
 
    *Zhi Zheng and Shangding Gu.*
+
+1. **HASARD: A benchmark for vision-based safe reinforcement learning in embodied agents.** ICLR, 2025. [paper](https://openreview.net/forum?id=5BRFddsAai)
+
+   *Tristan Tomilin, Meng Fang, and Mykola Pechenizkiy.*
 
 ### [Three Dimension](#content)
 1. **Online 3D bin packing with constrained deep reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155)
