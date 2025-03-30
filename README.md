@@ -29,8 +29,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#offline-learning">2.10 Offline Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#adversarial-reinforcement-learning">2.11 Adversarial Reinforcement Learning</a></td>
-    <td>&ensp;<a href="#inverse-reinforcement-learning">2.12 Inverse Reinforcement Learning</a></td>
+    <td>&ensp;<a href="#adversarial-learning">2.11 Adversarial Learning</a></td>
+    <td>&ensp;<a href="#inverse-learning">2.12 Inverse Learning</a></td>
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
@@ -494,7 +494,7 @@ Contributed by Chunyang Zhang.
 
    *Ze Gong, Akshat Kumar, and Pradeep Varakantham.* 
 
-### [Adversarial Reinforcement Learning](#content)
+### [Adversarial Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
 
    *Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, and Jaime F. Fisac.* 
@@ -503,7 +503,7 @@ Contributed by Chunyang Zhang.
 
    *Zeyang Li, Chuxiong Hu, Shengbo Eben Li, Jia Cheng, and Yunan Wang.* 
 
-### [Inverse Reinforcement Learning](#content)
+### [Inverse Learning](#content)
 1. **Inverse constrained reinforcement learning.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/malik21a.html)
 
    *Shehryar Malik, Usman Anwar, Alireza Aghasi, and Ali Ahmed.* 
@@ -951,6 +951,10 @@ Contributed by Chunyang Zhang.
 1. **GenSafe: A generalizable safety enhancer for safe reinforcement learning algorithms based on reduced order Markov decision process model.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.03912)
 
    *Zhehua Zhou, Xuan Xie, Jiayang Song, Zhan Shu, and Lei Ma.* 
+
+1. **Efficient action-constrained reinforcement learning via acceptance-rejection method and augmented MDPs.** ICLR, 2025. [paper](https://openreview.net/forum?id=AgMpK7z4bz)
+
+   *Wei Hung, Shao-Hua Sun, and Ping-Chun Hsieh.* 
 
 ### [Solver](#content)
 1. **Langevin policy for safe reinforcement learning.** ICML, 2024. [paper](https://openreview.net/forum?id=xgoilgLPGD)
