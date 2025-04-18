@@ -4,6 +4,21 @@
 
 Contributed by Chunyang Zhang.
 
+## 🤝 Looking for Collaborators | 寻找协作者
+
+This is an open-source repository for **Safe Reinforcement Learning**, focused on collecting literature and resources related to learning policies that **maximize expected return while ensuring safety constraints** during training and/or deployment. This area is crucial in applications where system performance and safety must be jointly considered.
+
+I am currently looking for collaborators to **help maintain and grow** this repository. Contributions may include adding new papers, categorizing safety techniques, or improving repository structure. I will **check in on the repository weekly**, but future updates will be **mainly driven by contributors**.
+
+If you are interested in Safe RL and want to contribute, feel free to open a PR, raise an issue, or reach out to me directly: **bitzhangcy@gmail.com**.
+
+这是一个关于**安全强化学习**的开源文献与资源整理仓库，聚焦于在训练或部署过程中，**在最大化收益的同时满足系统安全性要求**的策略学习问题。该方向对于需要同时兼顾性能与安全的应用场景尤为关键。
+
+目前我正在寻找对 Safe RL 感兴趣的朋友，**共同维护与扩展**这个仓库。欢迎协作者添加新论文、整理安全技术分类，或优化整体结构等。未来更新将**主要由协作者负责**，我本人会**每周查看一次仓库的进展**。
+
+如果你对安全强化学习有兴趣，欢迎通过 PR、issue 或直接邮件联系我：**bitzhangcy@gmail.com**
+
+
 ## [Content](#content)
 <table>
 <tr><td colspan="2"><a href="#survey">1. Survey</a></td></tr> 
@@ -494,6 +509,10 @@ Contributed by Chunyang Zhang.
 
    *Ze Gong, Akshat Kumar, and Pradeep Varakantham.* 
 
+1. **FOSP: Fine-tuning offline safe policy through world models.** ICLR, 2025. [paper](https://openreview.net/forum?id=dbuFJg7eaw)
+
+   *Chenyang Cao, Yucheng Xin, Silang Wu, Longxiang He, Zichen Yan, Junbo Tan, and Xueqian Wang.* 
+
 ### [Adversarial Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
 
@@ -587,6 +606,10 @@ Contributed by Chunyang Zhang.
 1. **Controlgym: Large-scale safety-critical control environments for benchmarking reinforcement learning algorithms.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.18736)
 
    *Xiangyuan Zhang, Weichao Mao, Saviz Mowlavi, Mouhacine Benosman, and Tamer Başar.*
+
+1. **HASARD: A benchmark for vision-based safe reinforcement learning in embodied agents.** ICLR, 2025. [paper](https://openreview.net/forum?id=5BRFddsAai)
+
+   *Tristan Tomilin, Meng Fang, and Mykola Pechenizkiy.*
 
 ### [Theory](#content) 
 1. **Near-optimal conservative exploration in reinforcement learning under episode-wise constraints.** ICML, 2023. [paper](https://arxiv.org/abs/2306.06265)
@@ -767,7 +790,15 @@ Contributed by Chunyang Zhang.
 
 1. **Meta SAC-Lag: Towards deployable safe reinforcement learning via metagradient-based hyperparameter tuning.** IROS, 2024. [paper](https://arxiv.org/abs/2408.07962)
 
-   *Homayoun Honari, Amir Mehdi Soufi Enayati, Mehran Ghafarian Tamizi, and Homayoun Najjaran* 
+   *Homayoun Honari, Amir Mehdi Soufi Enayati, Mehran Ghafarian Tamizi, and Homayoun Najjaran.* 
+
+1. **Robust transfer of safety-constrained reinforcement learning agents.** ICLR, 2025. [paper](https://openreview.net/forum?id=rvXdGL4pCJ)
+
+   *Markel Zubia, Thiago D. Simão, and Nils Jansen.* 
+
+1. **Constraint-conditioned actor-critic for offline safe reinforcement learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=nrRkAAAufl)
+
+   *Zijian Guo, Weichao Zhou, Shengao Wang, and Wenchao Li.* 
 
 ### [Diffusion Model](#content)
 1. **Trajectory generation, control, and safety with denoising diffusion probabilistic models.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15512)
@@ -845,6 +876,10 @@ Contributed by Chunyang Zhang.
 
    *Lunet Yifru and Ali Baheri.* 
 
+1. **Safety-prioritizing curricula for constrained reinforcement learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=f3QR9TEERH)
+
+   *Cevahir Koprulu, Thiago D. Simão, Nils Jansen, and ufuk topcu.* 
+
 ### [Continual Learning](#content) 
 1. **Experience replay for continual learning.** NIPS, 2019. [paper](https://papers.nips.cc/paper/2019/hash/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Abstract.html)
 
@@ -854,7 +889,7 @@ Contributed by Chunyang Zhang.
 
    *Matej Jusup, Barna Pásztor, Tadeusz Janik, Kenan Zhang, Francesco Corman, Andreas Krause, and Ilija Bogunovic.* 
 
-1. **Continual learning as computationally constrained reinforcement learning..** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04345)
+1. **Continual learning as computationally constrained reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04345)
 
    *Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, Yueyang Liu, and Benjamin Van Roy.*
 
@@ -920,6 +955,10 @@ Contributed by Chunyang Zhang.
 
    *Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen.* 
 
+1. **Latent safety-constrained policy approach for safe offline reinforcement learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=bDt5qc7TfO)
+
+   *Prajwal Koirala, Zhanhong Jiang, Soumik Sarkar, and Cody Fleming.* 
+
 ### [Knowledge Distillation](#content)
 1. **Coaching a teachable student.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10014)
 
@@ -955,6 +994,10 @@ Contributed by Chunyang Zhang.
 1. **Efficient action-constrained reinforcement learning via acceptance-rejection method and augmented MDPs.** ICLR, 2025. [paper](https://openreview.net/forum?id=AgMpK7z4bz)
 
    *Wei Hung, Shao-Hua Sun, and Ping-Chun Hsieh.* 
+
+1. **ActSafe: Active exploration with safety constraints for reinforcement learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=AgMpK7z4bz)
+
+   *Yarden As, Bhavya Sukhija, Lenart Treven, Carmelo Sferrazza, Stelian Coros, and Andreas Krause.* 
 
 ### [Solver](#content)
 1. **Langevin policy for safe reinforcement learning.** ICML, 2024. [paper](https://openreview.net/forum?id=xgoilgLPGD)
