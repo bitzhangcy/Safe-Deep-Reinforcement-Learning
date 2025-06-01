@@ -684,6 +684,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Kihyun Yu, Duksang Lee, William Overman, and Dabeen Lee.*
 
+1. **An optimistic algorithm for online CMDPS with anytime adversarial constraints.** ICML, 2025. [paper](https://arxiv.org/abs/2505.21841)
+
+   *Jiahui Zhu, Kihyun Yu, Dabeen Lee, Xin Liu, and Honghao Wei.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
@@ -707,7 +711,11 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
 1. **Balance reward and safety optimization for safe reinforcement learning: A perspective of gradient manipulation.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30102)
 
-   *Shangding Gu, Bilgehan Sel, Yuhao Ding, Lu Wang, Qingwei Lin, Ming Jin, and Alois Knoll* 
+   *Shangding Gu, Bilgehan Sel, Yuhao Ding, Lu Wang, Qingwei Lin, Ming Jin, and Alois Knoll.* 
+
+1. **Automatic reward shaping from confounded offline data.** ICML, 2025. [paper](https://arxiv.org/abs/2505.11478)
+
+   *Mingxuan Li, Junzhe Zhang, and Elias Bareinboim.* 
 
 ### [Cost Function](#content)
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
