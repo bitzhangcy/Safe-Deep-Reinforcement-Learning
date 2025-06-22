@@ -180,6 +180,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Alexander W. Goodall and Francesco Belardinelli.* 
 
+1. **PIGDreamer: Privileged information guided world models for safe partially observable reinforcement learning.** ICML, 2025. [paper](https://openreview.net/forum?id=mtk8tTKWs0)
+
+   *Dongchi Huang, Jiaqi Wang, Yang Li, Chunhe Xia, Tianle Zhang, and Kaige Zhang.* 
+
 ### [Model Free](#content)
 1. **Model-free safe control for zero-violation reinforcement learning.** CoRL, 2022. [paper](https://proceedings.mlr.press/v164/zhao22a.html)
 
@@ -400,6 +404,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Ilnura Usmanova, Yarden As, Maryam Kamgarpour, and Andreas Krause.* 
 
+1. **Learning safe control via on-the-fly bandit exploration.** ICML, 2025. [paper](https://openreview.net/forum?id=X6nIBckemw)
+
+   *Alexandre Capone, Ryan Kazuo Cosner, Aaron Ames, and Sandra Hirche.* 
+
 ### [Actor Critic](#content) 
 1. **WCSAC: Worst-case soft actor critic for safety-constrained reinforcement learning.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17272)
 
@@ -513,6 +521,14 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Chenyang Cao, Yucheng Xin, Silang Wu, Longxiang He, Zichen Yan, Junbo Tan, and Xueqian Wang.* 
 
+1. **Q-supervised contrastive representation: A state decoupling framework for safe offline reinforcement learning.** ICML, 2025. [paper](https://openreview.net/forum?id=hsoyRfvMGu)
+
+   *Zhihe Yang, Yunjian Xu, and Yang Zhang.* 
+
+1. **C2IQL: Constraint-conditioned implicit Q-learning for safe offline reinforcement learning.** ICML, 2025. [paper](https://openreview.net/forum?id=97N3XNtFwy)
+
+   *Zifan LIU, Xinran Li, and Jun Zhang.* 
+
 ### [Adversarial Learning](#content)
 1. **Learning-aware safety for interactive autonomy.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01267)
 
@@ -542,7 +558,6 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 1. **FP-IRL: Fokker-Planck-based inverse reinforcement learning -- A physics-constrained approach to Markov decision processes.** ICML, 2023. [paper](https://arxiv.org/abs/2306.10407)
 
    *Chengyang Huang, Siddhartha Srivastava, Xun Huan, and Krishna Garikipati.* 
-
 
 ## [Mechanism](#content)
 ### [Analysis](#content) 
@@ -688,6 +703,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Jiahui Zhu, Kihyun Yu, Dabeen Lee, Xin Liu, and Honghao Wei.*
 
+1. **Safety-polarized and prioritized reinforcement learning.** ICML, 2025. [paper](https://openreview.net/forum?id=x10ryC8F0C)
+
+   *Ke Fan, Jinpeng Zhang, Xuefeng Zhang, Yunze Wu, Jingyu Cao, Yuan Zhou, and Jianzhu Ma.*
+
 ### [Reward](#content) 
 1. **Redeeming intrinsic rewards via constrained optimization.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.10339)
 
@@ -721,6 +740,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 1. **AutoCost: Evolving intrinsic cost for zero-violation reinforcement learning.** AAAI, 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26734)
 
    *Tairan He, Weiye Zhao, and Changliu Liu.* 
+
+1. **Controlling underestimation bias in constrained reinforcement learning for safe exploration.** ICML, 2025. [paper](https://openreview.net/forum?id=nq5bt0mRTC4)
+
+   *Shiqing Gao, Jiaxin Ding, Luoyi Fu, and Xinbing Wang.* 
 
 ### [Primal Dual](#content) 
 1. **Semi-infinitely constrained markov decision processes and efficient reinforcement learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=ohk8bILFDkk)
@@ -787,6 +810,11 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 1. **Benchmarking constraint inference in inverse reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=vINj_Hv9szL)
 
    *Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, and Pascal Poupart.* 
+
+1. **Extreme value policy optimization for safe reinforcement learning.** ICML, 2025. [paper](https://openreview.net/forum?id=3aC94m0wbF)
+
+   *Shiqing Gao, Yihang Zhou, Shuai Shao, Haoyu Luo, Yiheng Bing, Jiaxin Ding, Luoyi Fu, and Xinbing Wang.* 
+
 ### [Domain Adaptation](#content)
 1. **A CMDP-within-online framework for meta-safe reinforcement learning.** ICLR, 2023. [paper](https://openreview.net/forum?id=mbxz9Cjehr)
 
