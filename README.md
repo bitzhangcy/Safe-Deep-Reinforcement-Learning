@@ -986,6 +986,10 @@ If you are interested in Safe RL and want to contribute, feel free to open a PR,
 
    *Edwin Hamel-De le Court, Francesco Belardinelli, and Alex W. Goodall.* 
 
+1. **Safety certificate against latent variables with partially unidentifiable dynamics.** ICML, 2025. [paper](https://openreview.net/forum?id=AMB11zS6kg)
+
+   *Haoming Jing and Yorie Nakahira.* 
+
 ### [Latent Space](#content) 
 1. **Safe reinforcement learning from pixels using a stochastic latent representation.** ICLR, 2023. [paper](https://openreview.net/forum?id=b39dQt_uffW)
 
